@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Maxime Girma
-    tagline: Développeur Full Stack
+    tagline: Développeur Back End
     avatar: profil.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,14 +16,7 @@ sidebar:
     phone: 06 11 81 59 49
 #    website: blog.webjeda.com #do not add http://
     linkedin: https://fr.linkedin.com/in/maxime-girma-4096a314a
-#    github: sharu725
-#    telegram: # add your nickname without '@' sign
-#    gitlab:
-#    bitbucket:
-#    twitter: '@webjeda'
-#    stack-overflow: # Number/Username, e.g. 123456/alandoe
-#    codewars:
-#    goodreads: # Number-Username, e.g. 123456-alandoe
+
 
     languages:
       - idiom: Français
@@ -46,11 +39,17 @@ sidebar:
 career-profile:
     title: A propos de moi
     summary: |
-      | Développeur depuis trois ans, j’aime découvrir de nouvelles choses. Dans mes projets personnels je cherche avant tout à explorer et expérimenter. Cela me permet de m’ouvrir à différentes approches et d’enrichir ma pratique.
-      |   
-      | Inspiré par l'approche Dev'Ops, j'en applique les principes dans mon travail, mettant la qualité logicielle au centre de ma pratique.
-      |   
-      | Aujourd’hui je cherche à rejoindre une équipe où je pourrais continuer à consolider mes compétences.
+      | Développeur avec plus de 8 ans d’expérience, spécialisé en backend Python, et pratiques DevOps. 
+      | Actuellement Squad Lead chez HelloAsso,
+      | je combine leadership d’équipe et expertise technique pour livrer des solutions adaptées aux besoins et aux enjeux actuels. 
+      | 
+      | Ma vision du leadership implique de privilegier l'intelligence collective, je me place avant tout comme un facilitateur 
+      | pour permettre à l'equipe d'exprimer son potentiel et de gagner en experience.
+      | 
+      | Sensible à la qualité du code, mais aussi du produit, je met en oeuvre automatisations et bonnes pratiques 
+      | pour garantir un delivery efficace sans péter la prod (La plupart du temps).
+      |
+
 education:
     - degree: Responsable en Ingénierie des Logiciels (Niveau 6)
       university: CESI Bordeaux
@@ -68,6 +67,38 @@ education:
       details: |
 
 experiences:
+
+    - role: Squad Lead
+      time: Janv. 2024 – Aujourd’hui
+      company: HelloAsso
+      location: Bordeaux, France
+      details: |
+        - Développements d'applications backEnd pour répondre aux enjeux réglementaires (Finops)
+          - Analyse des transactions, des comportements et des contenus sur une forte volumétrie.
+          - Screening / KYC et scores de risques en temps réél.
+        - Pilotage et animation d’une équipe de quatre développeur·euses.
+        - Coordination avec le métier et le produit, gestion de la roadmap et du delivery. 
+        - Encadrement technique et mentoring des développeurs (Python, Javascript).
+        
+
+    - role: Développeur Backend Python
+      time: Fév. 2021 – Janvier 2024
+      company: HelloAsso
+      location: Bordeaux, France
+      details: |
+        - Développement d’applications de synchronisation de bases de données basées
+          sur l’event sourcing (Python, FastAPI, Celery, Redis).
+        - Conception et implémentation d’un moteur d’analyse de transactions et des comportements basé sur
+          Spark (Python, Django, Celery, RabbitMQ, Spark).
+        - Mise en place et maintenance de pipelines de déploiement continu 
+            - Azure / Kubernetes
+            - Helm / bash
+        - Développement et Maintenance d'applications déployées sur kubernetes
+          - docker / helm / Keda
+          - Mise en place de sondes de monitoring (grafana, datadog).
+          - Administrations applicatives et d'infrastructures (K9s / capacitor).
+        
+
     - role: Développeur Full Stack (Alternance)
       time: 2018 - 2020
       company: UCAR Technologies, Bordeaux
@@ -128,14 +159,13 @@ competences:
     details: |+
       - Reformulation du besoin : Analyse fonctionnelle
       - Agilité : Suivi de sprints / Constitution de Backlogs (stories)
-      - Management qualité / coûts / delais
-      - Management des risques
+      - 
 
   - role: Méthodologie
     time:
     company:
     details: |+
-      - Approche TDD du déveleppement
+      - Approche TDD du développement
       - Versionnement (Git & GitFlow, Bitbucket & GitLab)
 
 
@@ -155,18 +185,16 @@ competences:
       - Administration serveur Web (Apache2, Nginx, Traefik)
       - Docker & docker-compose
       - Scripting (python3, bash)
+      - Infra as code (Helm / Kubernetes)
 
   - role: Langages et Frameworks
     time:
     company:
     details: |+
-      - Python 3 (Flask)
-      - Javascript (React, React-Native, Vue.js)
+      - Python (Flask / Django / PySpark)
+      - Javascript / Typescript (React-Native)
       - Typescript (React-Native)
-      - Java (SpringBoot, Hibernate)
-      - C# (.net)
       - SQL
-      - PHP (Laravel)
       - Bash
 
 
