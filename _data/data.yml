@@ -95,7 +95,7 @@ experiences:
         - Développement et Maintenance d'applications déployées sur kubernetes
           - docker / helm / Keda
           - Mise en place de sondes de monitoring (grafana, datadog).
-          - Administrations applicatives et d'infrastructures (K9s / capacitor).
+          - Administration (K9s / capacitor).
         
 
     - role: Développeur Full Stack (Alternance)
