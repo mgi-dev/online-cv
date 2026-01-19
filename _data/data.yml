@@ -40,14 +40,13 @@ career-profile:
     title: A propos de moi
     summary: |
       | Développeur avec plus de 8 ans d’expérience, spécialisé en backend Python, et pratiques DevOps. 
+      |
       | Actuellement Squad Lead chez HelloAsso,
       | je combine leadership d’équipe et expertise technique pour livrer des solutions adaptées aux besoins et aux enjeux actuels. 
       | 
-      | Ma vision du leadership implique de privilegier l'intelligence collective, je me place avant tout comme un facilitateur 
-      | pour permettre à l'equipe d'exprimer son potentiel et de gagner en experience.
+      | Ma vision du leadership implique de privilegier l'intelligence collective, je me place avant tout comme un facilitateur pour permettre à l'equipe d'exprimer son potentiel et de gagner en experience.
       | 
-      | Sensible à la qualité du code, mais aussi du produit, je met en oeuvre automatisations et bonnes pratiques 
-      | pour garantir un delivery efficace sans péter la prod (La plupart du temps).
+      | Sensible à la qualité du code, mais aussi du produit, je met en oeuvre automatisations et bonnes pratiques pour garantir un delivery efficace sans péter la prod (La plupart du temps).
       |
 
 education:
@@ -107,38 +106,14 @@ experiences:
             - Gestion des comptes, gestion des réservations et des états des lieux de véhicules.
             - Création de stack docker, déploiement et maintien en conditions opérationnelles.
             - Mise en place de pipes CI-CD.
-            - Python3 (Flask - SQLAlquemy) \| Mysql \| Docker \| Swagger \| JSON
+            - Python3 (Flask - SQLAlquemy) \| Mysql \| Docker \| Swagger
 
           <p> </p>
           <p> </p>
 
           - Conception et développement de Ucar RentSmarter. Application mobile de location de véhicules connectés.
             - Gestion des comptes, recherche par géolocalisation, réservations, gestion des clés virtuelles, états des lieux, ouverture et démarrage du véhicule (BLE)
-            - Javascript (React-native) \| Redux \| Redux-Saga
-
-          <p> </p>
-          <p> </p>
-
-          - Conception et développement de Ucar2Share. Application dédiée au partage de véhicules entre particuliers.
-            - Gestion des comptes, des groupes, des invitations et des réservations
-            - Typescript (React-native) \| Redux - Redux-Saga
-
-          <p> </p>
-          <p> </p>
-
-          - Conception et développement de Scherlock. Application Web permettant de vérifier en temps réél l'état du SI (Projet de fin d'etudes).
-            - Pilotage, gestion de projet, encadrement de développeurs, revue de code
-            - Conception de la solution, développement du back-end
-            - Javascript(React.js) \| Python3 (Flask)
-
-    - role: Développeur Mobile (Stage)
-      time: 2018
-      company: Ucar Technologies, Bordeaux
-      details: |
-        Réalisation d'un POC pour une application mobile dédiée à la location de véhicules connectés en React-Native.
-        - Gestion des comptes et des réservations.
-        - Gestion des états des lieux des véhicules connectés.
-        - Gestion des clés virtuelles.
+            - Typescript (React-native) \| Redux \| Redux-Saga
 
     - role: Service civique
       time: 2016 - 2017
@@ -159,30 +134,28 @@ competences:
     details: |+
       - Reformulation du besoin : Analyse fonctionnelle
       - Agilité : Suivi de sprints / Constitution de Backlogs (stories)
-      - 
+      - Retroplanning et découpage en lots réalistes.
 
   - role: Méthodologie
     time:
     company:
     details: |+
-      - Approche TDD du développement
-      - Versionnement (Git & GitFlow, Bitbucket & GitLab)
-
+      - TDD for life.
 
   - role: Architecture / Conception
     time:
     company:
     details: |+
+      - Archi Hexagonale && DDD
       - Conception et design d'API Web (MVC, REST, IOC)
-      - Modélisation des systèmes en UML
-      - Modélisation des données (Merise)
+      - Modélisation des systèmes avec des ronds et des fleches.
+      - Modélisation de shémas de base de données (Merise)
 
   - role: DevOps / Administration
     time:
     company:
     details: |+
-      - Administration Linux (Debian)
-      - Administration serveur Web (Apache2, Nginx, Traefik)
+      - Administration Linux (Debian) (Vite fait, ca remonte à loin) && kubernetes
       - Docker & docker-compose
       - Scripting (python3, bash)
       - Infra as code (Helm / Kubernetes)
@@ -192,12 +165,9 @@ competences:
     company:
     details: |+
       - Python (Flask / Django / PySpark)
-      - Javascript / Typescript (React-Native)
       - Typescript (React-Native)
       - SQL
       - Bash
-
-
 
 
 publications:
