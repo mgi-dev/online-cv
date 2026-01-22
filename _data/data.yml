@@ -87,16 +87,16 @@ experiences:
       details: |
         - Développement d’applications de synchronisation de bases de données basées
           sur l’event sourcing.
-            - `Python \| FastAPI  \| Celery \| Redis`
+            - `Python | FastAPI  | Celery | Redis`
         - Conception et implémentation d’un moteur d’analyse de transactions et des comportements basé sur
           Spark 
-          - `Django \| Celery  \| RabbitMQ \| Spark`
+          - `Django | Celery  | RabbitMQ | Spark`
         - Mise en place et maintenance de pipelines de déploiement continu 
-            - `Azure Devops \| K8S  \| Helm  \| Bash`
+            - `Azure Devops | K8S  | Helm  | Bash`
         - Développement et Maintenance d'applications déployées sur kubernetes
-          - `docker \| Helm \| Keda`
+          - `docker | Helm | Keda`
         - Mise en place de sondes de monitoring 
-            - `Grafana \| Datadog \| Prometheus`
+            - `Grafana | Datadog | Prometheus`
         
 
     - role: Développeur Full Stack (Alternance)
