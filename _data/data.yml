@@ -142,9 +142,9 @@ competences:
     time:
     company:
     details: |+
+      - Retroplanning et découpage en lots réalistes.
       - Reformulation du besoin : Analyse fonctionnelle
       - Agilité : Suivi de sprints / Constitution de Backlogs (stories)
-      - Retroplanning et découpage en lots réalistes.
 
   - role: Méthodologie
     time:
@@ -157,8 +157,8 @@ competences:
     company:
     details: |+
       - Archi Hexagonale && DDD
-      - Conception et design d'API Web (MVC, REST, IOC)
-      - Modélisation des systèmes avec des ronds et des fleches.
+      - Conception et design d'API.
+      - Modélisation des systèmes (UML).
       - Modélisation de shémas de base de données (Merise)
 
   - role: DevOps / Administration
@@ -200,4 +200,4 @@ skills:
         level: 50%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    
