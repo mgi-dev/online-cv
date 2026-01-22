@@ -50,12 +50,9 @@ career-profile:
     summary: |
       | Développeur avec plus de 8 ans d’expérience, spécialisé en backend Python, et pratiques DevOps. 
       |
-      | Je combine leadership d’équipe et expertise technique pour livrer des solutions adaptées aux besoins et aux enjeux actuels. 
-      | 
       | Ma vision du leadership implique de privilegier l'intelligence collective, je me place avant tout comme un facilitateur pour permettre à l'equipe d'exprimer son potentiel et de gagner en experience.
       | 
-      | Sensible à la qualité du code, mais aussi du produit, je met en oeuvre automatisations et bonnes pratiques pour garantir qualité et delivery.
-      |
+      | Sensible à la qualité du code, mais aussi du produit, je mets en oeuvre automatisations et bonnes pratiques pour garantir qualité et delivery.
 
 education:
     - degree: Responsable en Ingénierie des Logiciels (Niveau 6)
@@ -84,6 +81,7 @@ experiences:
           - Analyse des transactions, des comportements et des contenus sur une forte volumétrie. (1M+ events par jour)
           - Screening / KYC et scores de risques en temps réél. (1M+ d'entitées analysées en continu)
           - `Spark | Polars | Django | PostgreSQL | K8S | Elastic | Celery`
+          - Conception et archi Hexagonale.
         - Pilotage et animation d’une équipe de quatre développeur·euses.
         - Coordination avec le métier et le produit, gestion de la roadmap et du delivery. 
         - Encadrement technique et mentoring des développeurs (Python, Javascript).
@@ -138,37 +136,7 @@ experiences:
         Prise en charge de personnes en difficulté dans leur vie quotidienne.
 
 competences:
-  - role: Gestion de projets
-    time:
-    company:
-    details: |+
-      - Retroplanning et découpage en lots réalistes.
-      - Reformulation du besoin : Analyse fonctionnelle
-      - Agilité : Suivi de sprints / Constitution de Backlogs (stories)
 
-  - role: Méthodologie
-    time:
-    company:
-    details: |+
-      - TDD for life.
-
-  - role: Architecture / Conception
-    time:
-    company:
-    details: |+
-      - Archi Hexagonale && DDD
-      - Conception et design d'API.
-      - Modélisation des systèmes (UML).
-      - Modélisation de shémas de base de données (Merise)
-
-  - role: DevOps / Administration
-    time:
-    company:
-    details: |+
-      - Administration Linux (Debian) (Vite fait, ca remonte à loin) && kubernetes
-      - Docker & docker-compose
-      - Scripting (python3, bash)
-      - Infra as code (Helm / Kubernetes)
 
 
 
