@@ -26,7 +26,7 @@ sidebar:
         level: C1
 
     interests:
-      - item: Jeux vidéos (4X)
+      - item: Théatre amateur 
         link:
 
       - item: Science fiction
@@ -74,7 +74,9 @@ experiences:
       details: |
         - Développements d'applications backEnd pour répondre aux enjeux réglementaires (Finops)
           - Analyse des transactions, des comportements et des contenus sur une forte volumétrie.
+          - 100K+ events par jour
           - Screening / KYC et scores de risques en temps réél.
+          - 1M+ d'entitées analysées en continu.
         - Pilotage et animation d’une équipe de quatre développeur·euses.
         - Coordination avec le métier et le produit, gestion de la roadmap et du delivery. 
         - Encadrement technique et mentoring des développeurs (Python, Javascript).
