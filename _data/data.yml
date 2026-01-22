@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Maxime Girma
-    tagline: Développeur Back End
+    tagline: Tech Lead
     avatar: profil.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,7 +46,7 @@ career-profile:
       | 
       | Ma vision du leadership implique de privilegier l'intelligence collective, je me place avant tout comme un facilitateur pour permettre à l'equipe d'exprimer son potentiel et de gagner en experience.
       | 
-      | Sensible à la qualité du code, mais aussi du produit, je met en oeuvre automatisations et bonnes pratiques pour garantir un delivery efficace sans péter la prod (La plupart du temps).
+      | Sensible à la qualité du code, mais aussi du produit, je met en oeuvre automatisations et bonnes pratiques pour garantir qualité et delivery.
       |
 
 education:
@@ -75,7 +75,7 @@ experiences:
         - Développement d'applications BackEnd pour répondre aux enjeux réglementaires (Finops).
           - Analyse des transactions, des comportements et des contenus sur une forte volumétrie. (1M+ events par jour)
           - Screening / KYC et scores de risques en temps réél. (1M+ d'entitées analysées en continu)
-          - `Spark | Polars | Django | PostgreSQL | k8s | Elastic | celery`
+          - `Spark | Polars | Django | PostgreSQL | K8S | Elastic | Celery`
         - Pilotage et animation d’une équipe de quatre développeur·euses.
         - Coordination avec le métier et le produit, gestion de la roadmap et du delivery. 
         - Encadrement technique et mentoring des développeurs (Python, Javascript).
@@ -86,16 +86,17 @@ experiences:
       location: Bordeaux, France
       details: |
         - Développement d’applications de synchronisation de bases de données basées
-          sur l’event sourcing (Python, FastAPI, Celery, Redis).
+          sur l’event sourcing.
+            - `Python \| FastAPI  \| Celery \| Redis`
         - Conception et implémentation d’un moteur d’analyse de transactions et des comportements basé sur
-          Spark (Python, Django, Celery, RabbitMQ, Spark).
+          Spark 
+          - `Django \| Celery  \| RabbitMQ \| Spark`
         - Mise en place et maintenance de pipelines de déploiement continu 
-            - Azure / Kubernetes
-            - Helm / bash
+            - `Azure Devops \| K8S  \| Helm  \| Bash`
         - Développement et Maintenance d'applications déployées sur kubernetes
-          - docker / helm / Keda
-          - Mise en place de sondes de monitoring (grafana, datadog).
-          - Administration (K9s / capacitor / StackStorm).
+          - `docker \| Helm \| Keda`
+        - Mise en place de sondes de monitoring 
+            - `Grafana \| Datadog \| Prometheus`
         
 
     - role: Développeur Full Stack (Alternance)
