@@ -35,14 +35,20 @@ sidebar:
       - item: Aerospatial / Astronomie
         link:
 
+    technologies: 
+      - Python (Flask / Django / FastApi)
+      - PySpark / Polars
+      - Celery
+      - Typescript (React-Native)
+      - SQL
+      - Bash
 
 career-profile:
     title: A propos de moi
     summary: |
       | Développeur avec plus de 8 ans d’expérience, spécialisé en backend Python, et pratiques DevOps. 
       |
-      | Actuellement Squad Lead chez HelloAsso,
-      | je combine leadership d’équipe et expertise technique pour livrer des solutions adaptées aux besoins et aux enjeux actuels. 
+      | Je combine leadership d’équipe et expertise technique pour livrer des solutions adaptées aux besoins et aux enjeux actuels. 
       | 
       | Ma vision du leadership implique de privilegier l'intelligence collective, je me place avant tout comme un facilitateur pour permettre à l'equipe d'exprimer son potentiel et de gagner en experience.
       | 
@@ -162,13 +168,6 @@ competences:
       - Scripting (python3, bash)
       - Infra as code (Helm / Kubernetes)
 
-technologies: 
-  - Python (Flask / Django / FastApi)
-  - PySpark / Polars
-  - Celery
-  - Typescript (React-Native)
-  - SQL
-  - Bash
 
 
 publications:
