@@ -36,10 +36,12 @@ sidebar:
         link:
 
     technologies: 
-      - Python (Flask / Django / FastApi)
-      - PySpark / Polars
+      - Python
+      - Flask | Django | FastApi
+      - PySpark | Polars
       - Celery
-      - Typescript (React-Native)
+      - Typescript
+      - React-Native
       - SQL
       - Bash
 
