@@ -72,15 +72,13 @@ experiences:
       company: HelloAsso
       location: Bordeaux, France
       details: |
-        - Développements d'applications backEnd pour répondre aux enjeux réglementaires (Finops)
-          - Analyse des transactions, des comportements et des contenus sur une forte volumétrie.
-          - 100K+ events par jour
-          - Screening / KYC et scores de risques en temps réél.
-          - 1M+ d'entitées analysées en continu.
+        - Développement d'applications BackEnd pour répondre aux enjeux réglementaires (Finops).
+          - Analyse des transactions, des comportements et des contenus sur une forte volumétrie. (1M+ events par jour)
+          - Screening / KYC et scores de risques en temps réél. (1M+ d'entitées analysées en continu)
+          - `Spark | Polars | Django | PostgreSQL | k8s | Elastic | celery`
         - Pilotage et animation d’une équipe de quatre développeur·euses.
         - Coordination avec le métier et le produit, gestion de la roadmap et du delivery. 
         - Encadrement technique et mentoring des développeurs (Python, Javascript).
-        
 
     - role: Développeur Backend Python
       time: Fév. 2021 – Janvier 2024
@@ -97,18 +95,19 @@ experiences:
         - Développement et Maintenance d'applications déployées sur kubernetes
           - docker / helm / Keda
           - Mise en place de sondes de monitoring (grafana, datadog).
-          - Administration (K9s / capacitor).
+          - Administration (K9s / capacitor / StackStorm).
         
 
     - role: Développeur Full Stack (Alternance)
       time: 2018 - 2020
       company: UCAR Technologies, Bordeaux
       details: |+
-          - Conception, développement et déploiement d'une application back end RestFull dédiée à la nouvelle logique métier de l'entreprise.
+          - Conception, développement et déploiement d'une application BackEnd RestFull.
             - Gestion des comptes, gestion des réservations et des états des lieux de véhicules.
-            - Création de stack docker, déploiement et maintien en conditions opérationnelles.
-            - Mise en place de pipes CI-CD.
-            - Python3 (Flask - SQLAlquemy) \| Mysql \| Docker \| Swagger
+            - Python3 (Flask - SQLAlquemy) \| Mysql
+          - Mise en place de l'infrastructure et des pipes CI-CD 
+            - Création d'images docker, déploiement et maintien en conditions opérationnelles.
+            - docker \| GitLab \| bash \| Apache2 \| Debian
 
           <p> </p>
           <p> </p>
@@ -121,7 +120,7 @@ experiences:
       time: 2016 - 2017
       company: Maison des Ados, Montauban
       details: |
-        Accompagnement d'adolescents en difficulté. Création et animation d'activités. Gestion des outils numériques de l'association.
+        Accompagnement d'adolescents en difficulté. Création et animation d'activités.
 
     - role: Aide à domicile
       time: 2012 - 2016
