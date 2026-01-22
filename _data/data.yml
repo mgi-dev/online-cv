@@ -26,7 +26,7 @@ sidebar:
         level: C1
 
     interests:
-      - item: Théatre amateur 
+      - item: Théâtre amateur 
         link:
 
       - item: Science fiction
@@ -162,14 +162,13 @@ competences:
       - Scripting (python3, bash)
       - Infra as code (Helm / Kubernetes)
 
-  - role: Langages et Frameworks
-    time:
-    company:
-    details: |+
-      - Python (Flask / Django / PySpark)
-      - Typescript (React-Native)
-      - SQL
-      - Bash
+technologies: 
+  - Python (Flask / Django / FastApi)
+  - PySpark / Polars
+  - Celery
+  - Typescript (React-Native)
+  - SQL
+  - Bash
 
 
 publications:
