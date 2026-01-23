@@ -80,7 +80,7 @@ experiences:
         - Développement d'applications BackEnd pour répondre aux enjeux réglementaires (Finops).
           - Analyse des transactions, des comportements et des contenus sur une forte volumétrie. (1M+ events par jour)
           - Screening / KYC et scores de risques en temps réél. (1M+ d'entitées analysées en continu)
-          - `Spark | Polars | Django | PostgreSQL | K8S | Elastic | Celery`
+          - Spark \| Polars \| Django \| PostgreSQL \| K8S \| Elastic \| Celery
           - Conception et archi Hexagonale.
         - Pilotage et animation d’une équipe de quatre développeur·euses.
         - Coordination avec le métier et le produit, gestion de la roadmap et du delivery. 
@@ -93,16 +93,16 @@ experiences:
       details: |
         - Développement d’applications de synchronisation de bases de données basées
           sur l’event sourcing.
-            - `Python | FastAPI  | Celery | Redis`
+            - Python \| FastAPI  \| Celery \| Redis
         - Conception et implémentation d’un moteur d’analyse de transactions et des comportements basé sur
           Spark 
-          - `Django | Celery  | RabbitMQ | Spark`
+          - Django \| Celery  \| RabbitMQ \| Spark
         - Mise en place et maintenance de pipelines de déploiement continu 
-            - `Azure Devops | K8S  | Helm  | Bash`
+            - Azure Devops \| K8S  \| Helm  \| Bash
         - Développement et Maintenance d'applications déployées sur kubernetes
-          - `docker | Helm | Keda`
+          - docker \| Helm \| Keda
         - Mise en place de sondes de monitoring 
-            - `Grafana | Datadog | Prometheus`
+            - Grafana \| Datadog \| Prometheus
         
 
     - role: Développeur Full Stack (Alternance)
@@ -111,7 +111,7 @@ experiences:
       details: |+
           - Conception, développement et déploiement d'une application BackEnd RestFull.
             - Gestion des comptes, gestion des réservations et des états des lieux de véhicules.
-            - Python3 (Flask - SQLAlquemy) \| Mysql
+            - Python \| Flask \| SQLAlquemy \| Mysql
           - Mise en place de l'infrastructure et des pipes CI-CD 
             - Création d'images docker, déploiement et maintien en conditions opérationnelles.
             - docker \| GitLab \| bash \| Apache2 \| Debian
@@ -121,7 +121,7 @@ experiences:
 
           - Conception et développement de Ucar RentSmarter. Application mobile de location de véhicules connectés.
             - Gestion des comptes, recherche par géolocalisation, réservations, gestion des clés virtuelles, états des lieux, ouverture et démarrage du véhicule (BLE)
-            - Typescript (React-native) \| Redux \| Redux-Saga
+            - Typescript \| React-native \| Redux \| Redux-Saga
 
     - role: Service civique
       time: 2016 - 2017
@@ -136,8 +136,6 @@ experiences:
         Prise en charge de personnes en difficulté dans leur vie quotidienne.
 
 competences:
-
-
 
 
 publications:
