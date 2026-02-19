@@ -48,7 +48,7 @@ sidebar:
 career-profile:
     title: A propos de moi
     summary: |
-      | Développeur avec plus de 8 ans d’expérience, spécialisé en backend Python, et pratiques DevOps. 
+      | Développeur avec plus de 7 ans d’expérience, spécialisé en backend Python, et pratiques DevOps. 
       |
       | Ma vision du leadership implique de privilegier l'intelligence collective, je me place avant tout comme un facilitateur pour permettre à l'equipe d'exprimer son potentiel et de gagner en experience.
       | 
@@ -78,7 +78,7 @@ experiences:
       location: Bordeaux, France
       details: |
         - Développement d'applications BackEnd pour répondre aux enjeux réglementaires (Finops).
-          - Analyse des transactions, des comportements et des contenus sur une forte volumétrie. (1M+ events par jour)
+          - Analyse des transactions, des comportements et des contenus sur une forte volumétrie. (500K+ events par jour)
           - Screening / KYC et scores de risques en temps réél. (1M+ d'entitées analysées en continu)
           - Spark \| Polars \| Django \| PostgreSQL \| K8S \| Elastic \| Celery
           - Conception et archi Hexagonale.
