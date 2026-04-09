@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Maxime Girma
-    tagline: Tech Lead
+    tagline: Developpeur Senior
     avatar: profil.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -32,7 +32,7 @@ sidebar:
       - item: Science fiction
         link:
 
-      - item: Aerospatial / Astronomie
+      - item: Dodgeball
         link:
 
     technologies: 
@@ -49,8 +49,6 @@ career-profile:
     title: A propos de moi
     summary: |
       | Développeur avec plus de 7 ans d’expérience, spécialisé en backend Python, et pratiques DevOps. 
-      |
-      | Ma vision du leadership implique de privilegier l'intelligence collective, je me place avant tout comme un facilitateur pour permettre à l'equipe d'exprimer son potentiel et de gagner en experience.
       | 
       | Sensible à la qualité du code, mais aussi du produit, je mets en oeuvre automatisations et bonnes pratiques pour garantir qualité et delivery.
 
