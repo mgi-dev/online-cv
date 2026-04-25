@@ -32,7 +32,7 @@ sidebar:
       - item: Science fiction
         link:
 
-      - item: Aerospatial / Astronomie
+      - item: Dodgeball
         link:
 
     technologies: 
@@ -81,7 +81,7 @@ experiences:
           - Analyse des transactions, des comportements et des contenus sur une forte volumétrie. (500K+ events par jour)
           - Screening / KYC et scores de risques en temps réél. (1M+ d'entitées analysées en continu)
           - Spark \| Polars \| Django \| PostgreSQL \| K8S \| Elastic \| Celery
-          - Conception et archi Hexagonale.
+          - Conception et archi découplée.
         - Pilotage et animation d’une équipe de quatre développeur·euses.
         - Coordination avec le métier et le produit, gestion de la roadmap et du delivery. 
         - Encadrement technique et mentoring des développeurs (Python, Javascript).
