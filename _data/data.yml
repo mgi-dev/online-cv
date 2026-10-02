@@ -72,7 +72,7 @@ education:
 
 experiences:
 
-    - role: Squad Lead
+    - role: Tech Lead
       time: Janv. 2024 – Juil. 2026
       company: HelloAsso
       location: Bordeaux, France
@@ -80,7 +80,7 @@ experiences:
         - Développement d'applications BackEnd pour répondre aux enjeux réglementaires (Finops).
           - Analyse des transactions, des comportements et des contenus sur une forte volumétrie. (500K+ events par jour).
           - Screening / KYC et scores de risques en temps réél. (1M+ d'entitées analysées en continu).
-          - Conception et archi découplée.
+          - Conception d'archi découplée, clean code
         - Animation d'équipe, Coordination avec le métier et le produit, gestion de la roadmap et du delivery.
         - Optimisation et fiabilisation de la gestion de flux financiers critiques.
         - Développement de skills (AI) pour faciliter le développement et la revue de code.
@@ -101,7 +101,7 @@ experiences:
       details: |+
           - Conception, développement et déploiement d'une application BackEnd RestFull.
           - Gestion des comptes, gestion des réservations et des états des lieux de véhicules.
-          - Mise en place de l'infrastructure et des pipes CI-CD 
+          - Mise en place de l'infrastructure et des pipelines CI-CD 
           - Création d'images docker, déploiement et maintien en conditions opérationnelles.
 
           <p> </p>
