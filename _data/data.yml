@@ -78,12 +78,16 @@ experiences:
       location: Bordeaux, France
       details: |
         - Développement d'applications BackEnd pour répondre aux enjeux réglementaires (Finops).
-          - Analyse des transactions, des comportements et des contenus sur une forte volumétrie. (500K+ events par jour).
+          - Analyse des transactions, des comportements et des contenus sémantiques sur une forte volumétrie. (500K+ events par jour).
           - Screening / KYC et scores de risques en temps réél. (1M+ d'entitées analysées en continu).
           - Conception en TDD, archi découplée, clean code
-        - Animation d'équipe, Coordination avec le métier et le produit, gestion de la roadmap et du delivery.
+        - Pilotage et animation d'une équipe de quatre développeurs et développeuses.
+        - Encadrement technique, Pair review et mentoring des developpeurs.
+        - Développement de l'infra as code, automatisation des déploiements et de la quality gate.
+        - Coordination des sujets avec les équipes métier et produit, gestion de la roadmap et du delivery.
         - Optimisation et fiabilisation de la gestion de flux financiers critiques.
         - Développement de skills (AI) pour faciliter le développement et la revue de code.
+        - Environnement : Python, Django, PostgreSQL, Spark, Polars, Celery, Kubernetes, Elastic.
 
     - role: Développeur Backend Python
       time: Fév. 2021 – Janvier 2024
@@ -111,7 +115,7 @@ experiences:
 
           - Conception et développement de Ucar RentSmarter. Application mobile de location de véhicules connectés.
             - Gestion des comptes, recherche par géolocalisation, réservations, gestion des clés virtuelles, états des lieux, ouverture et démarrage du véhicule (BLE)
-
+          - Environnement : Python, Flask, SQLAlchemy, MySQL, Docker, GitLab, Bash, Apache2, Debian, TypeScript, React Native, Redux, Redux-Saga.
 
     - role: Service civique
       time: 2016 - 2017
