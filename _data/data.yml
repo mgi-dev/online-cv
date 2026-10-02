@@ -139,13 +139,13 @@ key_skills:
 
 tech_skills:
     - title: Développement
-      details: Python, TypeScript, SQL, bash
+      details: Python, TypeScript, SQL, Bash
     - title: Frameworks
-      details: Django, FastAPI, Flask, Celery, PySpark, Polars, React Native, Redux
+      details: Django, DRF, FastAPI, Flask, Celery, PySpark, Polars, React Native, Redux
     - title: Backend & données
-      details: PostgreSQL, MySQL, SQLAlchemy, Redis, RabbitMQ, Elastic
+      details: PostgreSQL, MySQL, SQLAlchemy, Redis, Elastic
     - title: DevOps
-      details: Kubernetes, Docker, Helm, KEDA, Azure DevOps, GitLab, Bash, Apache2, Debian
+      details: Docker, docker-compose, Kubernetes, Helm, KEDA, Azure DevOps, CI-CD, Gitops, Bash, Debian
     - title: Monitoring
       details: Grafana, Datadog, Prometheus
     
