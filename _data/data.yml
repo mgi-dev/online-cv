@@ -80,7 +80,7 @@ experiences:
         - Développement d'applications BackEnd pour répondre aux enjeux réglementaires (Finops).
           - Analyse des transactions, des comportements et des contenus sur une forte volumétrie. (500K+ events par jour).
           - Screening / KYC et scores de risques en temps réél. (1M+ d'entitées analysées en continu).
-          - Conception d'archi découplée, clean code
+          - Conception en TDD, archi découplée, clean code
         - Animation d'équipe, Coordination avec le métier et le produit, gestion de la roadmap et du delivery.
         - Optimisation et fiabilisation de la gestion de flux financiers critiques.
         - Développement de skills (AI) pour faciliter le développement et la revue de code.
@@ -90,9 +90,12 @@ experiences:
       company: HelloAsso
       location: Bordeaux, France
       details: |
-        - Développement d’applications de synchronisation de bases de données basées sur l’event sourcing.
+        - Développement d’applications de synchronisation de bases de données basées sur l’event sourcing. 
+        - Communication et synchronisation avec de multiples outils (Salesforce, Segment, PostgreSQL, MySQL, outils métiers).
+        - Remise en état de systèmes Legacy via l'application de bonnes pratiques (tests, monitoring, typing, CI-CD).
         - Conception et implémentation d’un moteur d’analyse de transactions et des comportements basé sur Spark 
-        - Mise en place de sondes de monitoring
+        - Mis en place de sondes et outils de monitoring pour améliorer la supervision des applications.
+        - Environnement : Python, FastAPI, Django, Celery, Redis, RabbitMQ, Spark, Azure DevOps, Kubernetes, Helm, Docker, KEDA, Bash, Grafana, Datadog, Prometheus.
         
 
     - role: Développeur Full Stack (Alternance)
