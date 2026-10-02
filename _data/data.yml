@@ -126,10 +126,10 @@ experiences:
 key_skills:
     - title: Leadership technique
       details: animation d’équipe, mentoring, accompagnement des développeurs, facilitation et intelligence collective.
-    - title: Architecture & backend
-      details: conception d’applications, architecture découplée, API REST, event sourcing, analyse de transactions et de comportements.
     - title: Pilotage & delivery
       details: coordination métier / produit, gestion de roadmap, suivi du delivery, priorisation et amélioration continue.
+    - title: Architecture & backend
+      details: conception d’applications, architecture découplée, API REST, event sourcing, analyse de transactions et de comportements.
     - title: DevOps & exploitation
       details: CI/CD, Docker, Kubernetes, Helm, Azure DevOps, GitLab, Bash, monitoring et maintien en conditions opérationnelles.
     - title: Data & performance
