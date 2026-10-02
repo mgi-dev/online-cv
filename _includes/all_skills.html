@@ -38,8 +38,10 @@
     <div class="item">
         
         <div class="details">
-            {{ tech_competence.title | markdownify }}
+            <span>
+            <bold>{{ tech_competence.title }}</bold>
             {{ tech_competence.details | markdownify }}
+            </span>
         </div><!--//details-->
         
 

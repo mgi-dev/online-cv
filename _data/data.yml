@@ -138,16 +138,17 @@ key_skills:
       details: automatisation, bonnes pratiques de développement, sens de la qualité, transmission et collaboration.
 
 tech_skills:
-    - title: Python
-      details: Django, FastAPI, Flask, Celery, PySpark, Polars
+    - title: Développement
+      details: Python, TypeScript, SQL, bash
+    - title: Frameworks
+      details: Django, FastAPI, Flask, Celery, PySpark, Polars, React Native, Redux
     - title: Backend & données
       details: PostgreSQL, MySQL, SQLAlchemy, Redis, RabbitMQ, Elastic
     - title: DevOps
       details: Kubernetes, Docker, Helm, KEDA, Azure DevOps, GitLab, Bash, Apache2, Debian
     - title: Monitoring
       details: Grafana, Datadog, Prometheus
-    - title: Développement
-      details: TypeScript, React Native, Redux, Redux-Saga, SQL
+    
 
 publications:
     title: Publications
