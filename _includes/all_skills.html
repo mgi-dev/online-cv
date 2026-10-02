@@ -1,0 +1,53 @@
+{% assign competences = site.data.data.key_skills %}
+{% if competences %}
+<section class="section experiences-section">
+    <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+    </span>
+        COMPÉTENCES CLÉS
+    </h2>
+
+    {% for competence in competences %}
+    <div class="item">
+
+        {% if competence.details %}
+        <div class="details">
+            {{ competence.details | markdownify }}
+        </div><!--//details-->
+        {% endif %}
+
+    </div><!--//item-->
+    {% endfor %}
+
+</section><!--//section-->
+{% endif %}
+
+
+{% assign competences = site.data.data.tech_skills %}
+{% if competences %}
+<section class="section experiences-section">
+    <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+    </span>
+        COMPÉTENCES CLÉS
+    </h2>
+
+    {% for competence in competences %}
+    <div class="item">
+
+        {% if competence.details %}
+        <div class="details">
+            {{ competence.details | markdownify }}
+        </div><!--//details-->
+        {% endif %}
+
+    </div><!--//item-->
+    {% endfor %}
+
+</section><!--//section-->
+{% endif %}
+
