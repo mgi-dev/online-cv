@@ -129,9 +129,7 @@ key_skills:
     - title: Pilotage & delivery
       details: coordination métier / produit, gestion de roadmap, suivi du delivery, priorisation et amélioration continue.
     - title: Architecture & backend
-      details: conception d’applications, architecture découplée, API REST, event sourcing, analyse de transactions et de comportements.
-    - title: Data & performance
-      details:  Spark / PySpark, Polars, analyse de données à forte volumétrie, traitements temps réel.
+      details: conception d’applications, architecture découplée, API REST, event sourcing.
     - title: Qualité & pratiques professionnelles
       details: automatisation, bonnes pratiques de développement, sens de la qualité, transmission et collaboration.
 
@@ -147,6 +145,7 @@ tech_skills:
       details: Docker, docker-compose, Kubernetes, Helm, KEDA, Azure DevOps, CI-CD, Gitops, Bash, Debian, monitoring et maintien en conditions opérationnelles
     - title: Monitoring
       details: Grafana, Datadog, Prometheus
+    - 
     
 
 publications:
