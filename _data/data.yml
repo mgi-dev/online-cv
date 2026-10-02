@@ -32,7 +32,7 @@ sidebar:
       - item: Science fiction
         link:
 
-      - item: Dodgeball
+      - item: Rachat de dette technique
         link:
 
     technologies: 
@@ -78,21 +78,21 @@ experiences:
       location: Bordeaux, France
       details: |
         - Développement d'applications BackEnd pour répondre aux enjeux réglementaires (Finops).
-          - Analyse des transactions, des comportements et des contenus sur une forte volumétrie. (500K+ events par jour)
-          - Screening / KYC et scores de risques en temps réél. (1M+ d'entitées analysées en continu)
+          - Analyse des transactions, des comportements et des contenus sur une forte volumétrie. (500K+ events par jour).
+          - Screening / KYC et scores de risques en temps réél. (1M+ d'entitées analysées en continu).
           - Conception et archi découplée.
-        - Coordination avec le métier et le produit, gestion de la roadmap et du delivery. 
+        - Animation d'équipe, Coordination avec le métier et le produit, gestion de la roadmap et du delivery.
+        - Optimisation et fiabilisation de la gestion de flux financiers critiques.
+        - Développement de skills (AI) pour faciliter le développement et la revue de code.
 
     - role: Développeur Backend Python
       time: Fév. 2021 – Janvier 2024
       company: HelloAsso
       location: Bordeaux, France
       details: |
-        - Développement d’applications de synchronisation de bases de données basées
-          sur l’event sourcing.
-        - Conception et implémentation d’un moteur d’analyse de transactions et des comportements basé sur
-          Spark 
-        - Mise en place de sondes de monitoring 
+        - Développement d’applications de synchronisation de bases de données basées sur l’event sourcing.
+        - Conception et implémentation d’un moteur d’analyse de transactions et des comportements basé sur Spark 
+        - Mise en place de sondes de monitoring
         
 
     - role: Développeur Full Stack (Alternance)
@@ -148,7 +148,7 @@ tech_skills:
     - title: Monitoring
       details: Grafana, Datadog, Prometheus
     - title: AI
-      details: skills, automatisations, harness engineering.
+      details: Skills, automatisations, harness engineering.
     
 
 publications:
@@ -172,11 +172,11 @@ skills:
       - name:  Typescript
         level: 70%
 
-      - name: Java
+      - name: Bash
         level: 50%
 
-      - name: C#
-        level: 50%
+      - name: Rust
+        level: 2%
 
 footer: >
     
