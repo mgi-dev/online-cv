@@ -10,13 +10,17 @@
     </h2>
 
     {% for competence in competences %}
-    <div class="item">
-
+    <!-- <div class="item"> -->
+        
         <div class="details">
-            {{ competence | markdownify }}
-        </div><!--//details-->        
+            <span>
+            <strong>{{ competence.title }}:</strong>
+            {{ competence.details }}
+            </span>
+        </div><!--//details-->
+        
 
-    </div><!--//item-->
+    <!-- </div>//item -->
     {% endfor %}
 
 </section><!--//section-->
