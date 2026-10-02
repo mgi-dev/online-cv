@@ -48,11 +48,12 @@ sidebar:
 career-profile:
     title: A propos de moi
     summary: |
-      | Développeur avec plus de 7 ans d’expérience, spécialisé en backend Python, et pratiques DevOps. 
+      | Software Engineer avec 7 d'experience, spécialisé en Python, architecture distribuée et systèmes à forte volumétrie. 
+      | J'interviens sur l'ensemble du cycle de vie de vie des applications, de l'expression initiale du besoin jusqu'au maintien en condition operationelle.
       |
       | Ma vision du leadership implique de privilegier l'intelligence collective, je me place avant tout comme un facilitateur pour permettre à l'equipe d'exprimer son potentiel et de gagner en experience.
-      | 
-      | Sensible à la qualité du code, mais aussi du produit, je mets en oeuvre automatisations et bonnes pratiques pour garantir qualité et delivery.
+      |
+      | Sensible à la qualité du code, mais aussi du produit, je mets en oeuvre automatisations, bonnes pratiques et culture devops pour garantir qualité et delivery.
 
 education:
     - degree: Responsable en Ingénierie des Logiciels (Niveau 6)
@@ -79,7 +80,7 @@ experiences:
       details: |
         - Développement d'applications BackEnd pour répondre aux enjeux réglementaires (Finops).
           - Analyse des transactions, des comportements et des contenus sémantiques sur une forte volumétrie. (500K+ events par jour).
-          - Screening / KYC et scores de risques en temps réél. (1M+ d'entitées analysées en continu).
+          - Screening / KYC et scores de risques en temps réél. (1M+ d'entités analysées en continu).
           - Conception en TDD, archi découplée, clean code
         - Pilotage et animation d'une équipe de quatre développeurs et développeuses.
         - Encadrement technique, Pair review et mentoring des developpeurs.
@@ -87,7 +88,6 @@ experiences:
         - Coordination des sujets avec les équipes métier et produit, gestion de la roadmap et du delivery.
         - Optimisation et fiabilisation de la gestion de flux financiers critiques.
         - Développement de skills (AI) pour faciliter le développement et la revue de code.
-        - **Environnement** : Python, Django, PostgreSQL, Spark, Polars, Celery, Kubernetes, Elastic.
 
     - role: Développeur Backend Python
       time: Fév. 2021 – Janvier 2024
@@ -98,15 +98,14 @@ experiences:
         - Communication et synchronisation avec de multiples outils (Salesforce, Segment, PostgreSQL, MySQL, outils métiers).
         - Remise en état de systèmes Legacy via l'application de bonnes pratiques (tests, monitoring, typing, CI-CD).
         - Conception et implémentation d’un moteur d’analyse de transactions et des comportements basé sur Spark 
-        - Mis en place de sondes et outils de monitoring pour améliorer la supervision des applications.
-        - **Environnement** : Python, FastAPI, Django, Celery, Redis, RabbitMQ, Spark, Azure DevOps, Kubernetes, Helm, Docker, KEDA, Bash, Grafana, Datadog, Prometheus.
+        - Mise en place de sondes et outils de monitoring pour améliorer la supervision des applications.
         
 
     - role: Développeur Full Stack (Alternance)
       time: 2018 - 2020
       company: UCAR Technologies, Bordeaux
       details: |+
-          - Conception, développement et déploiement d'une application BackEnd RestFull.
+          - Conception, développement et déploiement d'une application backend restfull.
           - Gestion des comptes, gestion des réservations et des états des lieux de véhicules.
           - Mise en place de l'infrastructure et des pipelines CI-CD 
           - Création d'images docker, déploiement et maintien en conditions opérationnelles.
@@ -115,7 +114,6 @@ experiences:
 
           - Conception et développement de Ucar RentSmarter. Application mobile de location de véhicules connectés.
             - Gestion des comptes, recherche par géolocalisation, réservations, gestion des clés virtuelles, états des lieux, ouverture et démarrage du véhicule (BLE)
-          - **Environnement** : Python, Flask, SQLAlchemy, MySQL, Docker, GitLab, Bash, Apache2, Debian, TypeScript, React Native, Redux, Redux-Saga.
 
     - role: Service civique
       time: 2016 - 2017
