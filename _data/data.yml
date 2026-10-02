@@ -73,7 +73,7 @@ education:
 experiences:
 
     - role: Squad Lead
-      time: Janv. 2024 – Aujourd’hui
+      time: Janv. 2024 – Juil. 2026
       company: HelloAsso
       location: Bordeaux, France
       details: |
@@ -125,26 +125,30 @@ experiences:
 
 key_skills:
     - title: Leadership technique
-      details: animation d’équipe, mentoring, accompagnement des développeurs, facilitation et intelligence collective.
+      details: Animation d’équipe, mentoring, accompagnement des développeurs, facilitation et intelligence collective.
     - title: Pilotage & delivery
-      details: coordination métier / produit, gestion de roadmap, suivi du delivery, priorisation et amélioration continue.
+      details: Coordination métier / produit, gestion de roadmap, suivi du delivery, priorisation et amélioration continue.
     - title: Architecture & backend
-      details: conception d’applications, architecture découplée, API REST, event sourcing.
-    - title: Qualité & pratiques professionnelles
-      details: automatisation, bonnes pratiques de développement, sens de la qualité, transmission et collaboration.
+      details: Conception d’applications, architecture découplée, API REST, event sourcing.
+    - title: Méthodologies
+      details: Agile (Scrum), PI Planning, TDD, DDD
+    - title: Qualité & bonnes pratiques
+      details: pair review, automatisation (always), clean code, unit tests & E2E tests, Approche devops, documentation.
 
 
 tech_skills:
     - title: Développement
       details: Python, TypeScript, SQL, Bash
     - title: Frameworks
-      details: Django, DRF, FastAPI, Flask, Celery, PySpark, Polars, React Native, Redux
+      details: Django, DRF, FastAPI, Flask, Celery, PySpark, Polars, Playwright, React Native, Redux
     - title: Backend & données
       details: PostgreSQL, MySQL, SQLAlchemy, Redis, Elastic
     - title: DevOps et Exploitation
       details: Docker, docker-compose, Kubernetes, Helm, KEDA, Azure DevOps, CI-CD, Gitops, Bash, Debian, monitoring et maintien en conditions opérationnelles
     - title: Monitoring
       details: Grafana, Datadog, Prometheus
+    - title: AI
+      details: skills, automatisations, harness engineering.
     
 
 publications:
