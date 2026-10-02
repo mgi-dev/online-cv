@@ -124,19 +124,30 @@ experiences:
 
 
 key_skills:
-    - Leadership technique : animation d’équipe, mentoring, accompagnement des développeurs, facilitation et intelligence collective.
-    - Architecture & backend : conception d’applications, architecture découplée, API REST, event sourcing, analyse de transactions et de comportements.
-    - Pilotage & delivery : coordination métier / produit, gestion de roadmap, suivi du delivery, priorisation et amélioration continue.
-    - DevOps & exploitation : CI/CD, Docker, Kubernetes, Helm, Azure DevOps, GitLab, Bash, monitoring et maintien en conditions opérationnelles.
-    - Data & performance : Spark / PySpark, Polars, analyse de données à forte volumétrie, traitements temps réel.
-    - Qualité & pratiques professionnelles : automatisation, bonnes pratiques de développement, sens de la qualité, transmission et collaboration.
+    - title: Leadership technique
+      details: animation d’équipe, mentoring, accompagnement des développeurs, facilitation et intelligence collective.
+    - title: Architecture & backend
+      details: conception d’applications, architecture découplée, API REST, event sourcing, analyse de transactions et de comportements.
+    - title: Pilotage & delivery
+      details: coordination métier / produit, gestion de roadmap, suivi du delivery, priorisation et amélioration continue.
+    - title: DevOps & exploitation
+      details: CI/CD, Docker, Kubernetes, Helm, Azure DevOps, GitLab, Bash, monitoring et maintien en conditions opérationnelles.
+    - title: Data & performance
+      details:  Spark / PySpark, Polars, analyse de données à forte volumétrie, traitements temps réel.
+    - title: Qualité & pratiques professionnelles
+      details: automatisation, bonnes pratiques de développement, sens de la qualité, transmission et collaboration.
 
 tech_skills:
-    - Python : Django, FastAPI, Flask, Celery, PySpark, Polars
-    - Backend & données : PostgreSQL, MySQL, SQLAlchemy, Redis, RabbitMQ, Elastic
-    - DevOps : Kubernetes, Docker, Helm, KEDA, Azure DevOps, GitLab, Bash, Apache2, Debian
-    - Monitoring : Grafana, Datadog, Prometheus
-    - Développement : TypeScript, React Native, Redux, Redux-Saga, SQL
+    - title: Python
+      details: Django, FastAPI, Flask, Celery, PySpark, Polars
+    - title: Backend & données
+      details: PostgreSQL, MySQL, SQLAlchemy, Redis, RabbitMQ, Elastic
+    - title: DevOps
+      details: Kubernetes, Docker, Helm, KEDA, Azure DevOps, GitLab, Bash, Apache2, Debian
+    - title: Monitoring
+      details: Grafana, Datadog, Prometheus
+    - title: Développement
+      details: TypeScript, React Native, Redux, Redux-Saga, SQL
 
 publications:
     title: Publications
