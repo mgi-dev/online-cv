@@ -145,7 +145,6 @@ tech_skills:
       details: Docker, docker-compose, Kubernetes, Helm, KEDA, Azure DevOps, CI-CD, Gitops, Bash, Debian, monitoring et maintien en conditions opérationnelles
     - title: Monitoring
       details: Grafana, Datadog, Prometheus
-    - 
     
 
 publications:
