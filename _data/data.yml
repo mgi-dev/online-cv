@@ -48,8 +48,8 @@ sidebar:
 career-profile:
     title: A propos de moi
     summary: |
-      | Software Engineer avec 7 d'experience, spécialisé en Python, architecture distribuée et systèmes à forte volumétrie. 
-      | J'interviens sur l'ensemble du cycle de vie de vie des applications, de l'expression initiale du besoin jusqu'au maintien en condition operationelle.
+      | Software Engineer avec sept ans d'experience, spécialisé en Python, architecture distribuée et systèmes à forte volumétrie. 
+      | J'interviens sur l'ensemble du cycle de vie des applications, de l'expression initiale du besoin jusqu'au maintien en condition operationelle.
       |
       | Ma vision du leadership implique de privilegier l'intelligence collective, je me place avant tout comme un facilitateur pour permettre à l'equipe d'exprimer son potentiel et de gagner en experience.
       |
@@ -78,6 +78,8 @@ experiences:
       company: HelloAsso
       location: Bordeaux, France
       details: |
+        ## Leadership technique
+        - 
         - Développement d'applications BackEnd pour répondre aux enjeux réglementaires (Finops).
           - Analyse des transactions, des comportements et des contenus sémantiques sur une forte volumétrie. (500K+ events par jour).
           - Screening / KYC et scores de risques en temps réél. (1M+ d'entités analysées en continu).
@@ -149,7 +151,7 @@ tech_skills:
     - title: Backend & données
       details: PostgreSQL, MySQL, SQLAlchemy, Redis, Elastic
     - title: DevOps et Exploitation
-      details: Docker, docker-compose, Kubernetes, Helm, KEDA, Azure DevOps, CI-CD, Gitops, Bash, Debian, monitoring et maintien en conditions opérationnelles
+      details: Docker, docker-compose, Kubernetes, Helm, KEDA, Azure DevOps, CI-CD, Gitops, Bash, Debian, Monitoring & Alerting
     - title: Monitoring
       details: Grafana, Datadog, Prometheus
     - title: AI
