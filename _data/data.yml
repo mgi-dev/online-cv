@@ -85,6 +85,7 @@ experiences:
         - Optimisation et fiabilisation de la gestion de flux financiers critiques via la parallelisation des traitements, la refonte du modèle de données et la mise à l'échelle de l'infra.
 
         Pilotage d'une équipe de quatre développeuses et développeurs avec encadrement technique, pair review et mentoring.
+
         Coordination des sujets avec les équipes métier et produit (analyse des besoins), gestion de la roadmap et du delivery, arbitrage des priorités avec des ressources contraintes et des urgences concurrentes.
         
 
@@ -94,9 +95,13 @@ experiences:
       location: Bordeaux, France
       details: |
         Développement d’applications de synchronisation de bases de données basées sur l’event sourcing communiquant avec des systèmes multiples: Salesforce, Segment, PostgreSQL, MySQL, outils métiers.
+        
         Remise à l'état de l'art de systèmes legacy critiques à forte volumétrie via l'application de bonnes pratiques (tests, monitoring, typing, CI-CD).
+        
         Conception et implémentation d’un moteur d’analyse de transactions bancaires et des comportements basé sur Spark. 
+        
         Développement d'infra as code (Docker, Helm),industrialisation des déploiements via des pipelines CI-CD, maintenance d'applications déployées sur kubernetes (K8S)
+        
         Mise en place de sondes et outils de monitoring pour améliorer la supervision des applications et réduire l'impact des incidents de production.
         
 
