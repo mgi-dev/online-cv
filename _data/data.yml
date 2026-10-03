@@ -78,29 +78,25 @@ experiences:
       company: HelloAsso
       location: Bordeaux, France
       details: |
-        ## Leadership technique
-        - 
-        - Développement d'applications BackEnd pour répondre aux enjeux réglementaires (Finops).
+        - Développement d'applications backend pour répondre aux enjeux réglementaires (AML, LCB-FT) avec notamment:
           - Analyse des transactions, des comportements et des contenus sémantiques sur une forte volumétrie. (500K+ events par jour).
-          - Screening / KYC et scores de risques en temps réél. (1M+ d'entités analysées en continu).
-          - Conception en TDD, archi découplée, clean code
-        - Pilotage et animation d'une équipe de quatre développeurs et développeuses.
-        - Encadrement technique, Pair review et mentoring des developpeurs.
-        - Développement de l'infra as code, automatisation des déploiements et de la quality gate.
-        - Coordination des sujets avec les équipes métier et produit, gestion de la roadmap et du delivery.
-        - Optimisation et fiabilisation de la gestion de flux financiers critiques.
-        - Développement de skills (AI) pour faciliter le développement et la revue de code.
+          - Screening / KYC et scores de risques en temps réél pour 1M+ d'entités analysées en continu.
+          - Mettre en œuvre d'une architecture découplée (TDD) et des pratiques d’automatisation pour soutenir la qualité et le delivery.
+          - Optimisation et fiabilisation de la gestion de flux financiers critiques via la parallelisation des traitements, la refonte du modèle de données et la mise à l'échelle de l'infra.
+        - Pilotage d'une équipe de quatre développeuses et développeurs avec encadrement technique, pair review et mentoring.
+        - Coordination des sujets avec les équipes métier et produit (analyse des besoins), gestion de la roadmap et du delivery, arbitrage des priorités avec des ressources contraintes et des urgences concurrentes.
+        
 
     - role: Développeur Backend Python
       time: Fév. 2021 – Janvier 2024
       company: HelloAsso
       location: Bordeaux, France
       details: |
-        - Développement d’applications de synchronisation de bases de données basées sur l’event sourcing. 
-        - Communication et synchronisation avec de multiples outils (Salesforce, Segment, PostgreSQL, MySQL, outils métiers).
-        - Remise en état de systèmes Legacy via l'application de bonnes pratiques (tests, monitoring, typing, CI-CD).
-        - Conception et implémentation d’un moteur d’analyse de transactions et des comportements basé sur Spark 
-        - Mise en place de sondes et outils de monitoring pour améliorer la supervision des applications.
+        - Développement d’applications de synchronisation de bases de données basées sur l’event sourcing communiquant avec des systèmes multiples: Salesforce, Segment, PostgreSQL, MySQL, outils métiers.
+        - Remise à l'état de l'art de systèmes legacy critiques à forte volumétrie via l'application de bonnes pratiques (tests, monitoring, typing, CI-CD).
+        - Conception et implémentation d’un moteur d’analyse de transactions bancaires et des comportements basé sur Spark. 
+        - Développement d'infra as code (Docker, Helm),industrialisation des déploiements via des pipelines CI-CD, maintenance d'applications déployées sur kubernetes (K8S)
+        - Mise en place de sondes et outils de monitoring pour améliorer la supervision des applications et réduire l'impact des incidents de production.
         
 
     - role: Développeur Full Stack (Alternance)
@@ -109,13 +105,8 @@ experiences:
       details: |+
           - Conception, développement et déploiement d'une application backend restfull.
           - Gestion des comptes, gestion des réservations et des états des lieux de véhicules.
-          - Mise en place de l'infrastructure et des pipelines CI-CD 
-          - Création d'images docker, déploiement et maintien en conditions opérationnelles.
-
-          <p> </p>
-
-          - Conception et développement de Ucar RentSmarter. Application mobile de location de véhicules connectés.
-            - Gestion des comptes, recherche par géolocalisation, réservations, gestion des clés virtuelles, états des lieux, ouverture et démarrage du véhicule (BLE)
+          - Mise en place de l'infrastructure (docker, web server, BDD) et des pipelines CI-CD 
+          - Conception et développement d'applications mobiles en react-native dédiées à la location de véhicules connectés avec réservation, géolocalisation, état des lieux et ouverture et démarrage du véhicule (BLE)
 
     - role: Service civique
       time: 2016 - 2017
@@ -147,15 +138,15 @@ tech_skills:
     - title: Développement
       details: Python, TypeScript, SQL, Bash
     - title: Frameworks
-      details: Django, DRF, FastAPI, Flask, Celery, PySpark, Polars, Playwright, React Native, Redux
+      details: Django, DRF, FastAPI, Flask, Celery, PySpark, Polars, Playwright, React Native
     - title: Backend & données
       details: PostgreSQL, MySQL, SQLAlchemy, Redis, Elastic
     - title: DevOps et Exploitation
-      details: Docker, docker-compose, Kubernetes, Helm, KEDA, Azure DevOps, CI-CD, Gitops, Bash, Debian, Monitoring & Alerting
+      details: Docker, docker-compose, Kubernetes, Helm, Azure DevOps, CI-CD, Gitops, Bash, Debian, Monitoring & Alerting
     - title: Monitoring
       details: Grafana, Datadog, Prometheus
     - title: AI
-      details: Skills, automatisations, harness engineering.
+      details: Skills, agent planning, harness engineering.
     
 
 publications:
