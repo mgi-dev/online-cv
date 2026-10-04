@@ -130,24 +130,24 @@ key_skills:
     - title: Pilotage & priorisation
       details: Coordination métier / produit, gestion de roadmap, suivi du delivery, priorisation et arbitrage.
     - title: Architecture & backend
-      details: Conception d’applications, architecture découplée, API REST, event sourcing, micro-services
+      details: Conception d’applications, architecture découplée, API REST, event sourcing, micro-services.
     - title: Méthodologies
-      details: Agile (Scrum), PI Planning, TDD, DDD
+      details: Agile (Scrum), PI Planning, TDD, DDD.
     - title: Qualité & bonnes pratiques
       details: pair review, automatisation (always), clean code, unit tests & E2E tests, Approche devops, documentation.
 
 
 tech_skills:
     - title: Développement
-      details: Python, TypeScript, SQL, Bash
+      details: Python, TypeScript, SQL, Bash.
     - title: Frameworks
-      details: Django, DRF, FastAPI, Flask, Celery, PySpark, Polars, Playwright, React Native
+      details: Django, DRF, FastAPI, Flask, Celery, PySpark, Polars, Playwright, React Native.
     - title: Backend & données
-      details: PostgreSQL, MySQL, SQLAlchemy, Redis, Elastic
+      details: PostgreSQL, MySQL, SQLAlchemy, Redis, Elastic.
     - title: DevOps et Exploitation
-      details: Docker, docker-compose, Kubernetes, Helm, Azure DevOps, CI/CD, GitOps, Bash, Debian, Monitoring & Alerting
+      details: Docker, docker-compose, Kubernetes, Helm, Azure DevOps, CI/CD, GitOps, Bash, Debian, Monitoring & Alerting.
     - title: Monitoring
-      details: Grafana, Datadog, Prometheus
+      details: Grafana, Datadog, Prometheus.
     - title: AI
       details: AI Skills, automatisation du développement, revues de code assistées par IA, harness engineering.
     
