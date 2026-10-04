@@ -79,15 +79,18 @@ experiences:
       company: HelloAsso
       location: Bordeaux, France
       details: |
+        Pilotage d'une équipe de quatre développeuses et développeurs avec encadrement technique, pair review et mentoring.
+        
+        Coordination des sujets avec les équipes métier et produit (analyse des besoins), gestion de la roadmap et du delivery, arbitrage des priorités avec des ressources contraintes et des urgences concurrentes.
+        
         Développement d'applications backend pour répondre aux enjeux réglementaires (AML, LCB-FT) avec notamment:
         - Analyse des transactions, des comportements et des contenus sémantiques sur une forte volumétrie. (500K+ events par jour).
         - Screening / KYC et scores de risques en temps réel pour 1M+ d'entités analysées en continu.
         - Mise en œuvre d'une architecture découplée (TDD) et des pratiques d’automatisation pour soutenir la qualité et le delivery (AI Review, CI/CD).
         - Optimisation et fiabilisation de la gestion de flux financiers critiques via la parallélisation des traitements, la refonte du modèle de données et la mise à l'échelle de l'infra.
 
-        Pilotage d'une équipe de quatre développeuses et développeurs avec encadrement technique, pair review et mentoring.
 
-        Coordination des sujets avec les équipes métier et produit (analyse des besoins), gestion de la roadmap et du delivery, arbitrage des priorités avec des ressources contraintes et des urgences concurrentes.
+        
         
 
     - role: Développeur Backend Python
