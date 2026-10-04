@@ -80,8 +80,8 @@ experiences:
       details: |
         Développement d'applications backend pour répondre aux enjeux réglementaires (AML, LCB-FT) avec notamment:
         - Analyse des transactions, des comportements et des contenus sémantiques sur une forte volumétrie. (500K+ events par jour).
-        - Screening / KYC et scores de risques en temps réél pour 1M+ d'entités analysées en continu.
-        - Mettre en œuvre d'une architecture découplée (TDD) et des pratiques d’automatisation pour soutenir la qualité et le delivery.
+        - Screening / KYC et scores de risques en temps réel pour 1M+ d'entités analysées en continu.
+        - Mise en œuvre d'une architecture découplée (TDD) et des pratiques d’automatisation pour soutenir la qualité et le delivery (AI Review, CI-CD).
         - Optimisation et fiabilisation de la gestion de flux financiers critiques via la parallelisation des traitements, la refonte du modèle de données et la mise à l'échelle de l'infra.
 
         Pilotage d'une équipe de quatre développeuses et développeurs avec encadrement technique, pair review et mentoring.
@@ -94,13 +94,13 @@ experiences:
       company: HelloAsso
       location: Bordeaux, France
       details: |
-        Développement d’applications de synchronisation de bases de données basées sur l’event sourcing communiquant avec des systèmes multiples: Salesforce, Segment, PostgreSQL, MySQL, outils métiers.
+        Développement d’applications de synchronisation de bases de données basées sur l’event sourcing communiquant avec des systèmes multiples: Salesforce, Segment, PostgreSQL, MySQL, APIs.
         
         Remise à l'état de l'art de systèmes legacy critiques à forte volumétrie via l'application de bonnes pratiques (tests, monitoring, typing, CI-CD).
         
-        Conception et implémentation d’un moteur d’analyse de transactions bancaires et des comportements basé sur Spark. 
+        Conception et implémentation d’un moteur d’analyse de transactions bancaires et des comportements utilisateurs basé sur Spark. 
         
-        Développement d'infra as code (Docker, Helm),industrialisation des déploiements via des pipelines CI-CD, maintenance d'applications déployées sur kubernetes (K8S)
+        Développement d'infra as code (Docker, Helm), industrialisation des déploiements via des pipelines CI-CD, maintenance d'applications déployées sur kubernetes (K8S)
         
         Mise en place de sondes et outils de monitoring pour améliorer la supervision des applications et réduire l'impact des incidents de production.
         
@@ -152,7 +152,7 @@ tech_skills:
     - title: Monitoring
       details: Grafana, Datadog, Prometheus
     - title: AI
-      details: Skills, agent planning, harness engineering.
+      details: AI Skills, automatisation du développement, revue de code assistée par IA, harness engineering.
     
 
 publications:
