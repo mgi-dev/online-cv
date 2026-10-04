@@ -29,7 +29,7 @@ sidebar:
       - item: Théâtre amateur 
         link:
 
-      - item: Science fiction
+      - item: Science-fiction
         link:
 
       - item: Rachat de dette technique
@@ -37,22 +37,22 @@ sidebar:
 
     technologies: 
       - Python
-      - Flask | Django | FastApi
+      - Flask | Django | FastAPI
       - PySpark | Polars
       - Celery
-      - Typescript
-      - React-Native
+      - TypeScript
+      - React Native
       - SQL
       - Bash
 
 career-profile:
     title: A propos de moi
     summary: |
-      | Tech Lead avec sept ans d’expérience dans la conception, le développement et l’exploitation de systèmes backend. J’interviens aussi bien sur les choix techniques que sur l’accompagnement des équipes et le pilotage du delivery.
+      | Tech Lead avec sept ans d’expérience dans le développement et l’exploitation de systèmes backend. J’interviens aussi bien sur les choix techniques que sur l’accompagnement des équipes et le pilotage du delivery.
       |
       | Ma vision du leadership implique de privilégier l'intelligence collective, je me place avant tout comme un facilitateur : donner un cadre, lever les blocages et permettre à chacun de progresser et de contribuer au meilleur niveau.
       |
-      | Attaché à la qualité du code comme à celle du produit, je mets en oeuvre automatisations, bonnes pratiques et culture devops pour garantir fiabilité et qualité.
+      | Attaché à la qualité du code comme à celle du produit, je mets en œuvre automatisations, bonnes pratiques et culture devops pour garantir fiabilité et qualité.
 
 
 
@@ -62,13 +62,13 @@ education:
       time: 2018 - 2020
       details: |
 
-    - degree: Analyste Programmeur (Niveau 5)
+    - degree: Analyste programmeur (Niveau 5)
       university: Cesi Bordeaux
       time: 2017 - 2018
       details: |
 
     - degree: Master 1 Psychologie Clinique
-      university: Université Jean Jaures Toulouse
+      university: Université Jean Jaurès Toulouse
       time: 2017
       details: |
 
@@ -86,7 +86,7 @@ experiences:
         Développement d'applications backend pour répondre aux enjeux réglementaires (AML, LCB-FT) d'une fintech en forte croissance avec notamment:
         - Analyse des transactions, des comportements et des contenus sémantiques en temps réel sur une forte volumétrie. (500K+ events par jour).
         - Screening / KYC et scores de risques pour 1M+ d'entités analysées en continu.
-        - Mise en œuvre d'une architecture découplée (TDD) et des pratiques d’automatisation pour soutenir la qualité et le delivery (AI Review, CI/CD).
+        - Mise en œuvre d'une architecture découplée (DDD) et des pratiques d’automatisation pour soutenir la qualité et le delivery (AI Review, CI/CD).
         - Optimisation et fiabilisation de la gestion de flux financiers critiques (~100K transactions/j) via la parallélisation des traitements, la refonte du modèle de données et la mise à l'échelle de l'infra.
 
     - role: Développeur Backend Python
@@ -105,7 +105,7 @@ experiences:
       time: 2018 - 2020
       company: UCAR Technologies, Bordeaux
       details: |+
-          Conception, développement et déploiement d'une application backend RESTfull dédiée à la location de véhicules connectés avec gestion des comptes, des réservations et des états des lieux de véhicules.
+          Conception, développement et déploiement d'une application backend RESTful dédiée à la location de véhicules connectés avec gestion des comptes, des réservations et des états des lieux de véhicules.
           
           Mise en place et gestion de l'infrastructure (Docker, web server, BDD) et des pipelines CI/CD.
           
@@ -130,7 +130,7 @@ key_skills:
     - title: Pilotage & priorisation
       details: Coordination métier / produit, gestion de roadmap, suivi du delivery, priorisation et arbitrage.
     - title: Architecture & backend
-      details: Conception d’applications, architecture découplée, API REST, event sourcing, micro-services.
+      details: Conception d’applications, architecture découplée, API REST, event sourcing, microservices.
     - title: Méthodologies
       details: Agile (Scrum), PI Planning, TDD, DDD.
     - title: Qualité & bonnes pratiques
@@ -138,19 +138,37 @@ key_skills:
 
 
 tech_skills:
-    - title: Développement
-      details: Python, TypeScript, SQL, Bash.
-    - title: Frameworks
-      details: Django, DRF, FastAPI, Flask, Celery, PySpark, Polars, Playwright, React Native.
-    - title: Backend & données
-      details: PostgreSQL, MySQL, SQLAlchemy, Redis, Elastic.
-    - title: DevOps et Exploitation
-      details: Docker, docker-compose, Kubernetes, Helm, Azure DevOps, CI/CD, GitOps, Bash, Debian, Monitoring & Alerting.
+    - title: Backend
+      details: Python, Django, DRF, FastAPI, Flask, Celery
+    - title: Data
+      details: PySpark, Polars, PostgreSQL, MySQL, Redis, Elastic
+    - title: Architecture
+      details: REST, Event Sourcing, microservices, DDD, TDD
+    - title: DevOps & Exploitation
+      details: Docker, Docker Compose, Kubernetes, Helm, Azure DevOps, CI/CD, GitOps, Bash, Debian, Monitoring & Alerting.
     - title: Monitoring
       details: Grafana, Datadog, Prometheus.
+    - title: Frontend & Mobile
+      details: React Native, Typescript
     - title: AI
-      details: AI Skills, automatisation du développement, revues de code assistées par IA, harness engineering.
+      details: instruction files, automatisation du développement, revues de code assistées par IA, harness engineering.
     
+
+    
+    
+
+    Data
+    
+
+    Architecture
+    
+
+    DevOps
+    Docker · Kubernetes · Helm · CI/CD · GitOps · Azure DevOps
+
+    
+    React Native · TypeScript
+
 
 publications:
     title: Publications
