@@ -100,13 +100,9 @@ experiences:
       details: |
         Développement d’applications de synchronisation de bases de données basées sur l’event sourcing communiquant avec des systèmes multiples: Salesforce, Segment, PostgreSQL, MySQL, APIs.
         
-        Remise à l'état de l'art de systèmes legacy critiques à forte volumétrie via l'application de bonnes pratiques (tests, monitoring, typing, CI/CD).
+        Remise à l'état de l'art de systèmes legacy critiques à forte volumétrie via l'application de bonnes pratiques de test (unit & E2E), l'industrialisation des déploiements sur k8s via des pipelines CI/CD et la mise en place d'outils de monitoring pour réduire l'impact des incidents de production.
         
         Conception et implémentation d’un moteur d’analyse de transactions bancaires et des comportements utilisateurs basé sur Spark. 
-        
-        Développement d'infra as code (Docker, Helm), industrialisation des déploiements via des pipelines CI/CD, maintenance d'applications déployées sur Kubernetes (K8S)
-        
-        Mise en place de sondes et outils de monitoring pour améliorer la supervision des applications et réduire l'impact des incidents de production.
         
 
     - role: Développeur Full Stack (Alternance)
