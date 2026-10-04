@@ -94,11 +94,11 @@ experiences:
       company: HelloAsso
       location: Bordeaux, France
       details: |
+        Conception et développement d’un moteur d’analyse de transactions bancaires et des comportements utilisateurs basé sur Spark pour répondre aux enjeux réglementaires (AML) en développant un ETL associé à des algorithmes experts.
+
         Développement d’applications de synchronisation de bases de données basées sur l’event sourcing communiquant avec de multiples systèmes tels que Salesforce, Segment, PostgreSQL, MySQL, APIs.
         
         Remise à l'état de l'art de systèmes legacy critiques à forte volumétrie via l'application de bonnes pratiques de test (unit & E2E), l'industrialisation des déploiements sur k8s via des pipelines CI/CD et la mise en place d'outils de monitoring pour réduire l'impact des incidents de production.
-        
-        Conception et implémentation d’un moteur d’analyse de transactions bancaires et des comportements utilisateurs basé sur Spark. 
         
 
     - role: Développeur Full Stack (Alternance)
