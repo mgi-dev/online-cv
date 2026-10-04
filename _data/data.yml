@@ -130,7 +130,7 @@ key_skills:
     - title: Pilotage & priorisation
       details: Coordination métier / produit, gestion de roadmap, suivi du delivery, priorisation et arbitrage.
     - title: Architecture & backend
-      details: Conception d’applications, architecture découplée, API REST, event sourcing.
+      details: Conception d’applications, architecture découplée, API REST, event sourcing, micro-services
     - title: Méthodologies
       details: Agile (Scrum), PI Planning, TDD, DDD
     - title: Qualité & bonnes pratiques
