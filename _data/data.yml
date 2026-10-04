@@ -109,10 +109,9 @@ experiences:
       time: 2018 - 2020
       company: UCAR Technologies, Bordeaux
       details: |+
-          - Conception, développement et déploiement d'une application backend RESTfull.
-          - Gestion des comptes, gestion des réservations et des états des lieux de véhicules.
-          - Mise en place de l'infrastructure (Docker, web server, BDD) et des pipelines CI/CD 
-          - Conception et développement d'applications mobiles en React Native dédiées à la location de véhicules connectés avec réservation, géolocalisation, état des lieux et ouverture et démarrage du véhicule (BLE)
+          Conception, développement et déploiement d'une application backend RESTfull dédiée à la location de véhicules connetés avec gestion des comptes, des réservations et des états des lieux de véhicules.
+          Mise en place et gestion de l'infrastructure (Docker, web server, BDD) et des pipelines CI/CD.
+          Conception et développement d'applications mobiles en React Native dédiées à la location de véhicules connectés avec réservation, géolocalisation, état des lieux et ouverture et démarrage du véhicule (BLE).
 
     - role: Service civique
       time: 2016 - 2017
