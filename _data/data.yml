@@ -48,12 +48,22 @@ sidebar:
 career-profile:
     title: A propos de moi
     summary: |
+      | Tech Lead avec sept ans d’expérience dans le développement backend, l’architecture logicielle et les pratiques DevOps. J’interviens aussi bien sur les choix techniques que sur l’accompagnement des équipes et le pilotage du delivery.
+      |
+      | Ma vision du leadership implique de privilegier l'intelligence collective, je me place avant tout comme un facilitateur: donner un cadre, lever les blocages et permettre à chacun de progresser et de contribuer au meilleur niveau.
+      |
+      | Attaché à la qualité du code comme à celle du produit, je mets en oeuvre automatisations, bonnes pratiques et culture devops pour garantir un delivery fiable et prévisible.
+      |
+      | OU
+      |
       | Software Engineer avec sept ans d'experience, spécialisé en Python, architectures distribuées et systèmes à forte volumétrie. 
       | J'interviens sur l'ensemble du cycle de vie des applications, de l'expression initiale du besoin jusqu'au maintien en condition operationelle.
       |
       | Ma vision du leadership implique de privilegier l'intelligence collective, je me place avant tout comme un facilitateur pour permettre à l'équipe d'exprimer son potentiel et de gagner en experience.
       |
       | Sensible à la qualité du code, mais aussi du produit, je mets en oeuvre automatisations, bonnes pratiques et culture devops pour garantir qualité et delivery.
+
+
 
 education:
     - degree: Responsable en Ingénierie des Logiciels (Niveau 6)
@@ -130,8 +140,8 @@ experiences:
 key_skills:
     - title: Leadership technique
       details: Animation d’équipe, mentoring, accompagnement des développeurs, facilitation et intelligence collective.
-    - title: Pilotage & delivery
-      details: Coordination métier / produit, gestion de roadmap, suivi du delivery, priorisation et amélioration continue.
+    - title: Pilotage & priorisation
+      details: Coordination métier / produit, gestion de roadmap, suivi du delivery, priorisation et arbitrage.
     - title: Architecture & backend
       details: Conception d’applications, architecture découplée, API REST, event sourcing.
     - title: Méthodologies
@@ -152,7 +162,7 @@ tech_skills:
     - title: Monitoring
       details: Grafana, Datadog, Prometheus
     - title: AI
-      details: AI Skills, automatisation du développement, revue de code assistée par IA, harness engineering.
+      details: AI Skills, automatisation du développement, revues de code assistées par IA, harness engineering.
     
 
 publications:
