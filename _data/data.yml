@@ -48,11 +48,11 @@ sidebar:
 career-profile:
     title: A propos de moi
     summary: |
-      | Tech Lead avec sept ans d’expérience dans le développement backend, l’architecture logicielle et les pratiques DevOps. J’interviens aussi bien sur les choix techniques que sur l’accompagnement des équipes et le pilotage du delivery.
+      | Tech Lead avec sept ans d’expérience dans la conception, le développement et l’exploitation de systèmes backend. J’interviens aussi bien sur les choix techniques que sur l’accompagnement des équipes et le pilotage du delivery.
       |
       | Ma vision du leadership implique de privilégier l'intelligence collective, je me place avant tout comme un facilitateur : donner un cadre, lever les blocages et permettre à chacun de progresser et de contribuer au meilleur niveau.
       |
-      | Attaché à la qualité du code comme à celle du produit, je mets en oeuvre automatisations, bonnes pratiques et culture devops pour garantir un delivery fiable et prévisible.
+      | Attaché à la qualité du code comme à celle du produit, je mets en oeuvre automatisations, bonnes pratiques et culture devops pour garantir fiabilité et qualité.
 
 
 
@@ -105,11 +105,11 @@ experiences:
       time: 2018 - 2020
       company: UCAR Technologies, Bordeaux
       details: |+
-          Conception, développement et déploiement d'une application backend RESTfull dédiée à la location de véhicules connetés avec gestion des comptes, des réservations et des états des lieux de véhicules.
+          Conception, développement et déploiement d'une application backend RESTfull dédiée à la location de véhicules connectés avec gestion des comptes, des réservations et des états des lieux de véhicules.
           
           Mise en place et gestion de l'infrastructure (Docker, web server, BDD) et des pipelines CI/CD.
           
-          Conception et développement d'applications mobiles en React Native dédiées à la location de véhicules connectés avec réservation, géolocalisation, état des lieux et ouverture et démarrage du véhicule (BLE).
+          Conception et développement d'applications mobiles en React Native dédiées à la location de véhicules connectés avec réservation, géolocalisation, état des lieux, ouverture et démarrage du véhicule (BLE).
 
     - role: Service civique
       time: 2016 - 2017
@@ -134,7 +134,7 @@ key_skills:
     - title: Méthodologies
       details: Agile (Scrum), PI Planning, TDD, DDD.
     - title: Qualité & bonnes pratiques
-      details: pair review, automatisation (always), clean code, unit tests & E2E tests, Approche devops, documentation.
+      details: Pair review, automatisation (always), clean code, unit tests & E2E tests, Approche devops.
 
 
 tech_skills:
