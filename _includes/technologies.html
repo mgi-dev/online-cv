@@ -9,7 +9,7 @@
   <ul class="list-unstyled interests-list">
     {% for tech in technologies %}
       <div class="details">
-        <span>{{ tech.title }}</span>
+        <strong>{{ tech.title }}</strong>
         {% for sub_tech in tech.techs %}
          <p>{{ sub_tech }}</p>
         {% endfor %}
