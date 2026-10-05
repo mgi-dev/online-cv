@@ -36,7 +36,7 @@ sidebar:
         link:
 
     technologies: 
-      - Python
+      - *Python*
       - Flask | Django | FastAPI
       - PySpark | Polars
       - Celery
