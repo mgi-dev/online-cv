@@ -123,37 +123,37 @@ experiences:
       company: HelloAsso
       location: Bordeaux, France
       details: |
-        Pilotage d'une équipe de quatre développeuses et développeurs avec encadrement technique, pair review et mentoring dans un environnement agile (Scrum).
+        - Pilotage d'une équipe de quatre développeuses et développeurs avec encadrement technique, pair review et mentoring dans un environnement agile (Scrum).
         
-        Coordination des sujets avec les équipes métier et produit (analyse des besoins, refinements), gestion de la roadmap et du delivery, arbitrage des priorités avec des ressources contraintes et des urgences concurrentes.
+        - Coordination des sujets avec les équipes métier et produit (analyse des besoins, refinements), gestion de la roadmap et du delivery, arbitrage des priorités avec des ressources contraintes et des urgences concurrentes.
         
-        Développement d'applications backend pour répondre aux enjeux réglementaires (AML, LCB-FT) d'une fintech en forte croissance avec notamment:
-        - Analyse des transactions, des comportements et des contenus sémantiques en temps réel sur une forte volumétrie. (500K+ events par jour).
-        - Screening / KYC et scores de risques pour 1M+ d'entités analysées en continu.
-        - Mise en œuvre d'une architecture découplée (DDD) et des pratiques d’automatisation pour soutenir la qualité et le delivery (AI Review, CI/CD).
-        - Optimisation et fiabilisation de la gestion de flux financiers critiques (~100K transactions/j) via la parallélisation des traitements, la refonte du modèle de données et la mise à l'échelle de l'infra.
+        - Développement d'applications backend pour répondre aux enjeux réglementaires (AML, LCB-FT) d'une fintech en forte croissance avec notamment:
+          - Analyse des transactions, des comportements et des contenus sémantiques en temps réel sur une forte volumétrie. (500K+ events par jour).
+          - Screening / KYC et scores de risques pour 1M+ d'entités analysées en continu.
+          - Mise en œuvre d'une architecture découplée (DDD) et des pratiques d’automatisation pour soutenir la qualité et le delivery (AI Review, CI/CD).
+          - Optimisation et fiabilisation de la gestion de flux financiers critiques (~100K transactions/j) via la parallélisation des traitements, la refonte du modèle de données et la mise à l'échelle de l'infra.
 
     - role: Développeur Backend Python
       time: Fév. 2021 – Janvier 2024
       company: HelloAsso
       location: Bordeaux, France
       details: |
-        Conception et développement d’un moteur d’analyse de transactions bancaires et des comportements utilisateurs basé sur Spark pour répondre aux enjeux réglementaires (AML) en développant un ETL associé à des algorithmes experts.
+        - Conception et développement d’un moteur d’analyse de transactions bancaires et des comportements utilisateurs basé sur Spark pour répondre aux enjeux réglementaires (AML) en développant un ETL associé à des algorithmes experts.
 
-        Développement d’applications de synchronisation de bases de données basées sur l’event sourcing communiquant avec de multiples systèmes tels que Salesforce, Segment, PostgreSQL, MySQL, APIs.
+        - Développement d’applications de synchronisation de bases de données basées sur l’event sourcing communiquant avec de multiples systèmes tels que Salesforce, Segment, PostgreSQL, MySQL, APIs.
         
-        Remise à l'état de l'art de systèmes legacy critiques à forte volumétrie via l'application de bonnes pratiques de test (unit & E2E), l'industrialisation des déploiements sur k8s via des pipelines CI/CD et la mise en place d'outils de monitoring pour réduire l'impact des incidents de production.
+        - Remise à l'état de l'art de systèmes legacy critiques à forte volumétrie via l'application de bonnes pratiques de test (unit & E2E), l'industrialisation des déploiements sur k8s via des pipelines CI/CD et la mise en place d'outils de monitoring pour réduire l'impact des incidents de production.
         
 
     - role: Développeur Full Stack (Alternance)
       time: 2018 - 2020
       company: UCAR Technologies, Bordeaux
       details: |+
-          Conception, développement et déploiement d'une application backend RESTful dédiée à la location de véhicules connectés avec gestion des comptes, des réservations et des états des lieux de véhicules.
+          - Conception, développement et déploiement d'une application backend RESTful dédiée à la location de véhicules connectés avec gestion des comptes, des réservations et des états des lieux de véhicules.
           
-          Mise en place et gestion de l'infrastructure (Docker, web server, BDD) et des pipelines CI/CD.
+          - Mise en place et gestion de l'infrastructure (Docker, web server, BDD) et des pipelines CI/CD.
           
-          Conception et développement d'applications mobiles en React Native dédiées à la location de véhicules connectés avec réservation, géolocalisation, état des lieux, ouverture et démarrage du véhicule (BLE).
+          - Conception et développement d'applications mobiles en React Native dédiées à la location de véhicules connectés avec réservation, géolocalisation, état des lieux, ouverture et démarrage du véhicule (BLE).
 
     - role: Service civique
       time: 2016 - 2017
