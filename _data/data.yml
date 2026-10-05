@@ -50,6 +50,7 @@ sidebar:
       - title: Data
         techs:
           - PySpark
+          - Parquet
           - Polars
           - PostgreSQL
           - MySQL
@@ -95,13 +96,11 @@ sidebar:
 career-profile:
     title: A propos de moi
     summary: |
-      | Tech Lead avec sept ans d’expérience dans le développement et l’exploitation de systèmes backend. J’interviens aussi bien sur les choix techniques que sur l’accompagnement des équipes et le pilotage du delivery.
+      | Software Engineer avec sept ans d’expérience dans le développement et l’exploitation de systèmes backend.
       |
-      | Ma vision du leadership implique de privilégier l'intelligence collective, je me place avant tout comme un facilitateur : donner un cadre, lever les blocages et permettre à chacun de progresser et de contribuer au meilleur niveau.
+      | Habitué à intervenir sur des systèmes à forte volumétrie et des applications critiques, j'interviens sur des problématiques de traitement de données, d’API, d’event sourcing et d’optimisation.
       |
       | Attaché à la qualité du code comme à celle du produit, je mets en œuvre automatisations, bonnes pratiques et culture devops pour garantir fiabilité et qualité.
-
-
 
 education:
     - degree: Responsable en Ingénierie des Logiciels (Niveau 6)
@@ -131,8 +130,9 @@ experiences:
         - Coordination des sujets avec les équipes métier et produit (analyse des besoins, refinements), gestion de la roadmap et du delivery, arbitrage des priorités avec des ressources contraintes et des urgences concurrentes.
         
         - Développement d'applications backend pour répondre aux enjeux réglementaires (AML, LCB-FT) d'une fintech en forte croissance avec notamment:
-          - Analyse des transactions, des comportements et des contenus sémantiques en temps réel sur une forte volumétrie. (500K+ events par jour).
+          - Analyse des transactions, des comportements et des contenus sémantiques sur une forte volumétrie. (500K+ events par jour).
           - Screening / KYC et scores de risques pour 1M+ d'entités analysées en continu.
+          - Déploiement et maintenance d'un cluster Spark sur Kubernetes.
           - Mise en œuvre d'une architecture découplée (DDD) et des pratiques d’automatisation pour soutenir la qualité et le delivery (AI Review, CI/CD).
           - Optimisation et fiabilisation de la gestion de flux financiers critiques (~100K transactions/j) via la parallélisation des traitements, la refonte du modèle de données et la mise à l'échelle de l'infra.
 
@@ -142,6 +142,8 @@ experiences:
       location: Bordeaux, France
       details: |
         - Conception et développement d’un moteur d’analyse de transactions bancaires et des comportements utilisateurs basé sur Spark pour répondre aux enjeux réglementaires (AML) en développant un ETL associé à des algorithmes experts.
+        
+        - Développement d'un ETL en PySpark pour aggréger l'ensemble des données nécessaires à l'analyse des comportements.
 
         - Développement d’applications de synchronisation de bases de données basées sur l’event sourcing communiquant avec de multiples systèmes tels que Salesforce, Segment, PostgreSQL, MySQL, APIs.
         
