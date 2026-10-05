@@ -36,14 +36,51 @@ sidebar:
         link:
 
     technologies: 
-      - *Python*
-      - Flask | Django | FastAPI
-      - PySpark | Polars
+      - *Backend*
+      - Python
+      - Django
+      - DRF
+      - FastAPI
+      - Flask
       - Celery
-      - TypeScript
-      - React Native
-      - SQL
+      - *Data*
+      - PySpark
+      - Polars
+      - PostgreSQL
+      - MySQL
+      - Redis
+      - Elastic
+      - *Architecture*
+      - REST
+      - Event Sourcing
+      - microservices
+      - DDD
+      - TDD
+      - *DevOps & Exploitation*
+      - Docker
+      - Docker Compose
+      - Kubernetes
+      - Helm
+      - Azure DevOps
+      - CI/CD
+      - GitOps
       - Bash
+      - Debian
+      - Monitoring-  & Alerting.
+      - *Monitoring*
+      - Grafana
+      - Datadog
+      - Prometheus
+      - *Frontend & Mobile*
+      - React Native
+      - Typescript
+      - *AI*
+      - Instruction files
+      - Automatisation du développement
+      - Revues de code assistées par IA
+      - Harness engineering
+    
+
 
 career-profile:
     title: A propos de moi
