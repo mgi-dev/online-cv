@@ -36,21 +36,21 @@ sidebar:
         link:
 
     technologies: 
-      - **Backend**
+      - "**Backend**"
       - Python
       - Django
       - DRF
       - FastAPI
       - Flask
       - Celery
-      - **Data**
+      - "**Data**"
       - PySpark
       - Polars
       - PostgreSQL
       - MySQL
       - Redis
       - Elastic
-      - **Architecture**
+      - "**Architecture**"
       - REST
       - Event Sourcing
       - microservices
