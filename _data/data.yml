@@ -36,27 +36,27 @@ sidebar:
         link:
 
     technologies: 
-      - +**Backend**
+      - **Backend**
       - Python
       - Django
       - DRF
       - FastAPI
       - Flask
       - Celery
-      - +**Data**
+      - **Data**
       - PySpark
       - Polars
       - PostgreSQL
       - MySQL
       - Redis
       - Elastic
-      - +**Architecture**
+      - **Architecture**
       - REST
       - Event Sourcing
       - microservices
       - DDD
       - TDD
-      - +**DevOps & Exploitation**
+      - "**DevOps & Exploitation**"
       - Docker
       - Docker Compose
       - Kubernetes
@@ -71,10 +71,10 @@ sidebar:
       - Grafana
       - Datadog
       - Prometheus
-      - +**Frontend & Mobile**
+      - "**Frontend & Mobile**"
       - React Native
       - Typescript
-      - +**AI**
+      - "**AI**"
       - Instruction files
       - Automatisation du développement
       - Revues de code assistées par IA
