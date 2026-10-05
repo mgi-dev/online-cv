@@ -9,8 +9,10 @@
   <ul class="list-unstyled interests-list">
     {% for tech in technologies %}
 
-      <span>{{ tech | markdownify }}</span>
-
+      <span>{techs}</span>
+      {% for sub_tech in tech.techs %}
+        {sub_tech} ..
+      {% endfor %}
     {% endfor %}
   </ul>
 
