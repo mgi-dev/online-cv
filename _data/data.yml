@@ -36,7 +36,7 @@ sidebar:
         link:
 
     technologies: 
-      - title: "**Backend**"
+      - title: Backend
         techs:
           - Python
           - Django
@@ -44,7 +44,7 @@ sidebar:
           - FastAPI
           - Flask
           - Celery
-      - title: "**Data**"
+      - title: Data
         techs:
           - PySpark
           - Polars
@@ -52,14 +52,14 @@ sidebar:
           - MySQL
           - Redis
           - Elastic
-      - title: "**Architecture**"
+      - title: Architecture
         techs:
           - REST
           - Event Sourcing
           - microservices
           - DDD
           - TDD
-      - title: "**DevOps & Exploitation**"
+      - title: DevOps & Exploitation
         techs:
           - Docker
           - Docker Compose
@@ -71,16 +71,16 @@ sidebar:
           - Bash
           - Debian
           - Monitoring-  & Alerting.
-      - title: +**Monitoring**
+      - title: Monitoring
         techs:
           - Grafana
           - Datadog
           - Prometheus
-      - title: "**Frontend & Mobile**"
+      - title: Frontend & Mobile
         techs:
           - React Native
           - Typescript
-      - title: "**AI**"
+      - title: AI
         techs:
           - Instruction files
           - Automatisation du développement
