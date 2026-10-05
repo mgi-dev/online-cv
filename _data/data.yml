@@ -56,7 +56,7 @@ sidebar:
       - microservices
       - DDD
       - TDD
-      - *DevOps & Exploitation*
+      - +*DevOps & Exploitation*
       - Docker
       - Docker Compose
       - Kubernetes
@@ -71,7 +71,7 @@ sidebar:
       - Grafana
       - Datadog
       - Prometheus
-      - *Frontend & Mobile*
+      - +*Frontend & Mobile*
       - React Native
       - Typescript
       - *AI*
