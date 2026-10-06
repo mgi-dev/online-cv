@@ -19,23 +19,23 @@ sidebar:
 
 
     languages:
-      - idiom: French
+      - idiom: Français
         level: Natif
 
-      - idiom: English
+      - idiom: Anglais
         level: C1
 
     interests:
-      - item: Amateur theater
+      - item: Théâtre amateur 
         link:
 
       - item: Science-fiction
         link:
 
-      - item: Cooking
+      - item: Cuisine
         link:
 
-      - item: Technical debt swimming
+      - item: Rachat de dette technique
         link:
 
     technologies: 
@@ -62,7 +62,7 @@ sidebar:
           - microservices
           - DDD
           - TDD
-      - title: DevOps & Operation
+      - title: DevOps & Exploitation
         techs:
           - Docker
           - Docker Compose
@@ -73,7 +73,7 @@ sidebar:
           - GitOps
           - Bash
           - Debian
-          - Monitoring & Alerting
+          - Monitoring-  & Alerting.
       - title: Monitoring
         techs:
           - Grafana
@@ -86,36 +86,36 @@ sidebar:
       - title: AI
         techs:
           - Instruction files
-          - Automated development
-          - AI powered code reviews 
+          - Automatisation du développement
+          - Code review assistées par IA
           - Harness engineering
     
 
 
 career-profile:
-    title: About me
+    title: A propos de moi
     summary: |
-      | Tech lead with seven years of experience building and operating backend softwares. I drive technical choices, empower engineering teams, and take ownership of delivery from planning through execution.
+      | Tech Lead avec sept ans d’expérience dans le développement et l’exploitation de systèmes backend. J’interviens aussi bien sur les choix techniques que sur l’accompagnement des équipes et le pilotage du delivery.
       |
-      | My leadership approach emphasize collective intelligence. I see my role first and foremost as an enabler: providing direction, removing blockers, and contribute to create a place where everyone can grow and contribute at their best.
+      | Ma vision du leadership implique de privilégier l'intelligence collective, je me place avant tout comme un facilitateur : donner un cadre, lever les blocages et permettre à chacun de progresser et de contribuer au meilleur niveau.
       |
-      | I deeply care about code and product quality. I leverage, engineering best practices and devops culture to insure reliability and high-quality delivery.
+      | Attaché à la qualité du code comme à celle du produit, je mets en œuvre automatisations, bonnes pratiques et culture devops pour garantir fiabilité et qualité.
 
 
 
 education:
-    - degree: Software Engineering Lead (RNCP Level 6)
+    - degree: Responsable en Ingénierie des Logiciels (Niveau 6)
       university: CESI Bordeaux
       time: 2018 - 2020
       details: |
 
-    - degree: Software Developer (Level 5)
+    - degree: Analyste programmeur (Niveau 5)
       university: Cesi Bordeaux
       time: 2017 - 2018
       details: |
 
-    - degree: M1 in Clinical Psychology
-      university: Jean Jaurès university Toulouse
+    - degree: Master 1 Psychologie Clinique
+      university: Université Jean Jaurès Toulouse
       time: 2017
       details: |
 
@@ -126,24 +126,27 @@ experiences:
       company: HelloAsso
       location: Bordeaux, France
       details: |
-        - Led a team of four developers, providing technical guidance, peer reviews, and mentoring in an Agile (Scrum) environment.
+        - Pilotage d'une équipe de quatre développeuses et développeurs avec encadrement technique, pair review et mentoring dans un environnement agile (Scrum).
         
-        - Coordinated topics with business and product teams (requirements analysis, refinements), managed the roadmap and delivery, and prioritized competing demands with constrained resources and concurrent urgent requests.
+        - Coordination des sujets avec les équipes métier et produit (analyse des besoins, refinements), gestion de la roadmap et du delivery, arbitrage des priorités avec des ressources contraintes et des urgences concurrentes.
         
-        - Developed backend applications to address the regulatory requirements (AML, CTF) of a rapidly growing fintech, including:
-          - Real-time analysis of transactions, behaviors, and semantic content at high volume (500K+ events per day).
-          - Screening / KYC and risk scoring for 1M+ entities continuously analyzed.
-          - Implemented a decoupled architecture (DDD) and automation practices to support quality and delivery (AI Review, CI/CD).
-          - Optimized and improved the reliability of critical financial transaction processing (~100K transactions/day) through processing parallelization, data model redesign, and infrastructure scaling.
+        - Développement d'applications backend pour répondre aux enjeux réglementaires (AML, LCB-FT) d'une fintech en forte croissance avec notamment:
+          - Analyse des transactions, des comportements et des contenus sémantiques en temps réel sur une forte volumétrie. (500K+ events par jour).
+          - Screening / KYC et scores de risques pour 1M+ d'entités analysées en continu.
+          - Mise en œuvre d'une architecture découplée (DDD) et des pratiques d’automatisation pour soutenir la qualité et le delivery (AI Review, CI/CD).
+          - Optimisation et fiabilisation de la gestion de flux financiers critiques (~100K transactions/j) via la parallélisation des traitements, la refonte du modèle de données et la mise à l'échelle de l'infra.
 
-    - role: Python Backend Developer
+    - role: Développeur Backend Python
       time: Fév. 2021 – Janvier 2024
       company: HelloAsso
       location: Bordeaux, France
       details: |
-        - Designed and developed a transaction and user behavior analysis engine based on Spark to address regulatory requirements (AML), including the development of an ETL and expert algorithms.
-        - Developed database synchronization applications based on event sourcing, communicating with multiple systems such as Salesforce, Segment, PostgreSQL, MySQL, and APIs.
-        - Brought critical, high-volume legacy systems up to current standards by applying testing best practices (unit and E2E), industrializing deployments on Kubernetes through CI/CD pipelines, and implementing monitoring tools to reduce the impact of production incidents.
+        - Conception et développement d’un moteur d’analyse de transactions bancaires et des comportements utilisateurs basé sur Spark pour répondre aux enjeux réglementaires (AML) en développant un ETL associé à des algorithmes experts.
+
+        - Développement d’applications de synchronisation de bases de données basées sur l’event sourcing communiquant avec de multiples systèmes tels que Salesforce, Segment, PostgreSQL, MySQL, APIs.
+        
+        - Remise à l'état de l'art de systèmes legacy critiques à forte volumétrie via l'application de bonnes pratiques de test (unit & E2E), l'industrialisation des déploiements sur k8s via des pipelines CI/CD et la mise en place d'outils de monitoring pour réduire l'impact des incidents de production.
+        
 
     - role: Développeur Full Stack (Alternance)
       time: 2018 - 2020
@@ -155,31 +158,30 @@ experiences:
           
           - Conception et développement d'applications mobiles en React Native dédiées à la location de véhicules connectés avec réservation, géolocalisation, état des lieux, ouverture et démarrage du véhicule (BLE).
 
-    - role: Civic Service Volunteer
+    - role: Service civique
       time: 2016 - 2017
-      company: Youth Support Center (Maison des Ados), Montauban
+      company: Maison des Ados, Montauban
       details: |
-        Supported vulnerable adolescents. Designed and facilitated activities to promote social engagement.
+        Accompagnement d'adolescents en difficulté. Création et animation d'activités.
 
-    - role: Home Support Worker
+    - role: Aide à domicile
       time: 2012 - 2016
-      company: Various employers, Toulouse
+      company: Multiples employeurs, Toulouse
       details: |
-        Supported individuals challenged in their daily life, helping maintain their independance.
-        
+        Prise en charge de personnes en difficulté dans leur vie quotidienne.
 
 
 key_skills:
-    - title: Technical leadership
-      details: Team leadership, mentoring, developer coaching, facilitation and collaborative decision-making.
-    - title: Delivery & Priorization
-      details: Business / product coordination, roadmap ownership, delivery management, priorization, trade-off decisions.
+    - title: Leadership technique
+      details: Animation d’équipe, mentoring, accompagnement des développeurs, facilitation et intelligence collective.
+    - title: Pilotage & priorisation
+      details: Coordination métier / produit, gestion de roadmap, suivi du delivery, priorisation et arbitrage.
     - title: Architecture & backend
-      details: Application design, decoupled architectures, API REST, event sourcing, microservices.
-    - title: Methodologies
+      details: Conception d’applications, architecture découplée, API REST, event sourcing, microservices.
+    - title: Méthodologies
       details: Agile (Scrum), PI Planning, TDD, DDD.
-    - title: Quality & Engineering Practices
-      details: Pair review, automatization (toujours), clean code, unit tests & E2E tests, DevOps practices.
+    - title: Qualité & bonnes pratiques
+      details: Pair review, automatisation (always), clean code, unit tests & E2E tests, Approche devops.
 
 
 tech_skills:
