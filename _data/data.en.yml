@@ -95,11 +95,11 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      | Tech lead with seven years of experience building and operating backend softwares. I drive technical choices, empower engineering teams, and take ownership of delivery from planning through execution.
+      | Tech lead with seven years of experience building and operating backend software. I drive technical choices, empower engineering teams, and take ownership of delivery from planning through execution.
       |
-      | My leadership approach emphasize collective intelligence. I see my role first and foremost as an enabler: providing direction, removing blockers, and contribute to create a place where everyone can grow and contribute at their best.
+      | My leadership approach emphasize collective intelligence. I see my role first and foremost as an enabler: providing direction, removing blockers, and contributing to create a place where everyone can grow and contribute at their best.
       |
-      | I deeply care about code and product quality. I leverage, engineering best practices and devops culture to insure reliability and high-quality delivery.
+      | I deeply care about code and product quality. I leverage engineering best practices and devops culture to insure reliability and high-quality delivery.
 
 
 
@@ -149,11 +149,9 @@ experiences:
       time: 2018 - 2020
       company: UCAR Technologies, Bordeaux
       details: |+
-          - Conception, développement et déploiement d'une application backend RESTful dédiée à la location de véhicules connectés avec gestion des comptes, des réservations et des états des lieux de véhicules.
-          
-          - Mise en place et gestion de l'infrastructure (Docker, web server, BDD) et des pipelines CI/CD.
-          
-          - Conception et développement d'applications mobiles en React Native dédiées à la location de véhicules connectés avec réservation, géolocalisation, état des lieux, ouverture et démarrage du véhicule (BLE).
+          - Designed, developed, and deployed a RESTful backend application dedicated to connected vehicle rental, with account management, reservations, and vehicle inspection reports.
+          - Set up and managed the infrastructure (Docker, web server, database) and CI/CD pipelines.
+          - Designed and developed React Native mobile applications dedicated to connected vehicle rental, with booking, geolocation, vehicle inspection, and vehicle unlocking and starting via BLE.
 
     - role: Civic Service Volunteer
       time: 2016 - 2017
