@@ -1,0 +1,234 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Maxime Girma
+    tagline: Tech Lead
+    avatar: profil.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: maxime.girma@hotmail.fr
+    phone: 06 11 81 59 49
+#    website: blog.webjeda.com #do not add http://
+    linkedin: https://fr.linkedin.com/in/maxime-girma-4096a314a
+
+
+    languages:
+      - idiom: Français
+        level: Natif
+
+      - idiom: Anglais
+        level: C1
+
+    interests:
+      - item: Théâtre amateur 
+        link:
+
+      - item: Science-fiction
+        link:
+
+      - item: Cuisine
+        link:
+
+      - item: Rachat de dette technique
+        link:
+
+    technologies: 
+      - title: Backend
+        techs:
+          - Python
+          - Django
+          - DRF
+          - FastAPI
+          - Flask
+          - Celery
+      - title: Data
+        techs:
+          - PySpark
+          - Parquet
+          - Polars
+          - PostgreSQL
+          - MySQL
+          - Redis
+          - Elastic
+      - title: Architecture
+        techs:
+          - REST
+          - Event Sourcing
+          - microservices
+          - DDD
+          - TDD
+      - title: DevOps & Exploitation
+        techs:
+          - Docker
+          - Docker Compose
+          - Kubernetes
+          - Helm
+          - Azure DevOps
+          - CI/CD
+          - GitOps
+          - Bash
+          - Debian
+          - Monitoring-  & Alerting.
+      - title: Monitoring
+        techs:
+          - Grafana
+          - Datadog
+          - Prometheus
+      - title: Frontend & Mobile
+        techs:
+          - React Native
+          - Typescript
+      - title: AI
+        techs:
+          - Instruction files
+          - Automatisation du développement
+          - Code review assistées par IA
+          - Harness engineering
+    
+
+
+career-profile:
+    title: A propos de moi
+    summary: |
+      | Software Engineer avec sept ans d’expérience dans le développement et l’exploitation de systèmes backend.
+      |
+      | Habitué à intervenir sur des systèmes à forte volumétrie et des applications critiques, j'interviens sur des problématiques de traitement de données, d’API, d’event sourcing et d’optimisation.
+      |
+      | Attaché à la qualité du code comme à celle du produit, je mets en œuvre automatisations, bonnes pratiques et culture devops pour garantir fiabilité et qualité.
+
+education:
+    - degree: Responsable en Ingénierie des Logiciels (Niveau 6)
+      university: CESI Bordeaux
+      time: 2018 - 2020
+      details: |
+
+    - degree: Analyste programmeur (Niveau 5)
+      university: Cesi Bordeaux
+      time: 2017 - 2018
+      details: |
+
+    - degree: Master 1 Psychologie Clinique
+      university: Université Jean Jaurès Toulouse
+      time: 2017
+      details: |
+
+experiences:
+
+    - role: Tech Lead
+      time: Janv. 2024 – Juil. 2026
+      company: HelloAsso
+      location: Bordeaux, France
+      details: |
+        - Pilotage d'une équipe de quatre développeuses et développeurs avec encadrement technique, pair review et mentoring dans un environnement agile (Scrum).
+        
+        - Coordination des sujets avec les équipes métier et produit (analyse des besoins, refinements), gestion de la roadmap et du delivery, arbitrage des priorités avec des ressources contraintes et des urgences concurrentes.
+        
+        - Développement d'applications backend pour répondre aux enjeux réglementaires (AML, LCB-FT) d'une fintech en forte croissance avec notamment:
+          - Analyse des transactions, des comportements et des contenus sémantiques sur une forte volumétrie. (500K+ events par jour).
+          - Screening / KYC et scores de risques pour 1M+ d'entités analysées en continu.
+          - Déploiement et maintenance d'un cluster Spark sur Kubernetes.
+          - Mise en œuvre d'une architecture découplée (DDD) et des pratiques d’automatisation pour soutenir la qualité et le delivery (AI Review, CI/CD).
+          - Optimisation et fiabilisation de la gestion de flux financiers critiques (~100K transactions/j) via la parallélisation des traitements, la refonte du modèle de données et la mise à l'échelle de l'infra.
+
+    - role: Développeur Backend Python
+      time: Fév. 2021 – Janvier 2024
+      company: HelloAsso
+      location: Bordeaux, France
+      details: |
+        - Conception et développement d’un moteur d’analyse de transactions bancaires et des comportements utilisateurs basé sur Spark pour répondre aux enjeux réglementaires (AML) en développant un ETL associé à des algorithmes experts.
+        
+        - Développement d'un ETL en PySpark pour aggréger l'ensemble des données nécessaires à l'analyse des comportements.
+
+        - Développement d’applications de synchronisation de bases de données basées sur l’event sourcing communiquant avec de multiples systèmes tels que Salesforce, Segment, PostgreSQL, MySQL, APIs.
+        
+        - Remise à l'état de l'art de systèmes legacy critiques à forte volumétrie via l'application de bonnes pratiques de test (unit & E2E), l'industrialisation des déploiements sur k8s via des pipelines CI/CD et la mise en place d'outils de monitoring pour réduire l'impact des incidents de production.
+        
+
+    - role: Développeur Full Stack (Alternance)
+      time: 2018 - 2020
+      company: UCAR Technologies, Bordeaux
+      details: |+
+          - Conception, développement et déploiement d'une application backend RESTful dédiée à la location de véhicules connectés avec gestion des comptes, des réservations et des états des lieux de véhicules.
+          
+          - Mise en place et gestion de l'infrastructure (Docker, web server, BDD) et des pipelines CI/CD.
+          
+          - Conception et développement d'applications mobiles en React Native dédiées à la location de véhicules connectés avec réservation, géolocalisation, état des lieux, ouverture et démarrage du véhicule (BLE).
+
+    - role: Service civique
+      time: 2016 - 2017
+      company: Maison des Ados, Montauban
+      details: |
+        Accompagnement d'adolescents en difficulté. Création et animation d'activités.
+
+    - role: Aide à domicile
+      time: 2012 - 2016
+      company: Multiples employeurs, Toulouse
+      details: |
+        Prise en charge de personnes en difficulté dans leur vie quotidienne.
+
+
+key_skills:
+    - title: Leadership technique
+      details: Animation d’équipe, mentoring, accompagnement des développeurs, facilitation et intelligence collective.
+    - title: Pilotage & priorisation
+      details: Coordination métier / produit, gestion de roadmap, suivi du delivery, priorisation et arbitrage.
+    - title: Architecture & backend
+      details: Conception d’applications, architecture découplée, API REST, event sourcing, microservices.
+    - title: Méthodologies
+      details: Agile (Scrum), PI Planning, TDD, DDD.
+    - title: Qualité & bonnes pratiques
+      details: Pair review, automatisation (always), clean code, unit tests & E2E tests, Approche devops.
+
+
+tech_skills:
+    - title: Backend
+      details: Python, Django, DRF, FastAPI, Flask, Celery
+    - title: Data
+      details: PySpark, Polars, PostgreSQL, MySQL, Redis, Elastic
+    - title: Architecture
+      details: REST, Event Sourcing, microservices, DDD, TDD
+    - title: DevOps & Exploitation
+      details: Docker, Docker Compose, Kubernetes, Helm, Azure DevOps, CI/CD, GitOps, Bash, Debian, Monitoring & Alerting.
+    - title: Monitoring
+      details: Grafana, Datadog, Prometheus.
+    - title: Frontend & Mobile
+      details: React Native, Typescript
+    - title: AI
+      details: Instruction files, Automatisation du développement, Revues de code assistées par IA, Harness engineering.
+    
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+
+
+skills:
+    title: Langages
+    toolset:
+      - name: Python 3 & Flask
+        level: 90%
+
+      - name: React & React-Native
+        level: 90%
+
+      - name:  Typescript
+        level: 70%
+
+      - name: Bash
+        level: 50%
+
+      - name: Rust
+        level: 2%
+
+footer: >
+    
